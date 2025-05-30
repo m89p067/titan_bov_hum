@@ -5,7 +5,7 @@ from os.path import isfile, join
 filenameB='bovine_ML.xlsx'
 dfB=pd.read_excel(filenameB,header=0,index_col=None)
 dfB['Specie'] = 'B'
-mypath="D:/Parinaz/Umani/"
+mypath="D:/Data/Umani/"
 appended_data = []
 onlyfiles = [f for f in listdir(mypath) if isfile(join(mypath, f))]
 
