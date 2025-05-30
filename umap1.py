@@ -78,9 +78,9 @@ for params in parameter_combinations:
         ax.set_xticklabels([])
         ax.set_yticklabels([])
         # Display the plot
-        plt.savefig('D:/Parinaz/umap_fig/'+plot_filename+'.png',dpi=300, bbox_inches='tight')
+        plt.savefig('D:/Data/umap_fig/'+plot_filename+'.png',dpi=300, bbox_inches='tight')
         plt.close()
-        np.save('D:/Parinaz/umap_fig/'+plot_filename, out_umap, allow_pickle=True)
+        np.save('D:/Data/umap_fig/'+plot_filename, out_umap, allow_pickle=True)
         print(f"Plot saved to {plot_filename}")
     except Exception as e:
         print(f"Error occurred: {e}")
