@@ -11,7 +11,7 @@ def log10_with_epsilon(arr,EPSILON=1e-10):
     return result
 import pdb
 print('Data created by merge_H_B_ver1.py')
-folder='D:/Parinaz/new_img/'
+folder='D:/Data/new_img/'
 filenameH='Human_ML2'
 filenameB='Bovine_ML2'
 filenameBH='Bovine_and_Human2'
