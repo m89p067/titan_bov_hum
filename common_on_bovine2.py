@@ -28,7 +28,7 @@ def plot_my_clusters(Xe,labels,names, title, vtitle):
     plt.ylabel(vtitle + "2")
     plt.show();
     
-filename = "D:/Parinaz/bovine_ML.xlsx"
+filename = "D:/Data/bovine_ML.xlsx"
 
 df=pd.read_excel(filename,header=0,index_col=None)
 df.Class.value_counts().reset_index(name='Sum of Accidents')
