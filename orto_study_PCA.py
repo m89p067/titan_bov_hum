@@ -20,11 +20,11 @@ from scipy.spatial.distance import pdist, squareform
 from numpy.linalg import inv
 from mpl_toolkits.mplot3d import Axes3D
 print('Data created by merge_H_B_ver1.py')
-folder='D:/Parinaz/datasets_analysis/'
+folder='D:/Data/datasets_analysis/'
 filenameH='Human_ML2'
 filenameB='Bovine_ML2'
 filenameBH='Bovine_and_Human2'
-save_folder='D:/Parinaz/datasets_analysis/ortho/'
+save_folder='D:/Data/datasets_analysis/ortho/'
 filenameHs='Human_ML3'
 filenameBs='Bovine_ML3'
 filenameBHs='Bovine_and_Human3'
