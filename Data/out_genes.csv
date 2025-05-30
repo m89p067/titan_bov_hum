@@ -1,0 +1,838 @@
+Protein;Gene;Descrip;Type;Cond
+A1L595;K1C17; Keratin, type I cytoskeletal 17 OS=Bos taurus GN=KRT17 PE=2 SV=1;B;TI_CT_PPHE
+A2I7M9;SPA32; Serpin A3-2 OS=Bos taurus GN=SERPINA3-2 PE=3 SV=1;B;TI_CT_PPHE
+A2I7N0;SPA34; Serpin A3-4 OS=Bos taurus GN=SERPINA3-4 PE=3 SV=1;B;TI_CT_PPHE
+A2I7N1;SPA35; Serpin A3-5 OS=Bos taurus GN=SERPINA3-5 PE=3 SV=1;B;TI_CT_PPHE
+A2I7N2;SPA36; Serpin A3-6 OS=Bos taurus GN=SERPINA3-6 PE=3 SV=1;B;TI_CT_PPHE
+A2I7N3;SPA37; Serpin A3-7 OS=Bos taurus GN=SERPINA3-7 PE=3 SV=1;B;TI_CT_PPHE
+A6QPQ2;SPA38; Serpin A3-8 OS=Bos taurus GN=SERPINA3-8 PE=2 SV=1;B;TI_CT_PPHE
+A7E3W2;LG3BP; Galectin-3-binding protein OS=Bos taurus GN=LGALS3BP PE=1 SV=1;B;TI_CT_PPHE
+E1BF81;CBG; Corticosteroid-binding globulin OS=Bos taurus GN=SERPINA6 PE=3 SV=1;B;TI_CT_PPHE
+O46375;TTHY; Transthyretin OS=Bos taurus GN=TTR PE=1 SV=1;B;TI_CT_PPHE
+P00442;SODC; Superoxide dismutase [Cu-Zn] OS=Bos taurus GN=SOD1 PE=1 SV=2;B;TI_CT_PPHE
+P00735;THRB; Prothrombin OS=Bos taurus GN=F2 PE=1 SV=2;B;TI_CT_PPHE
+P00741;FA9; Coagulation factor IX OS=Bos taurus GN=F9 PE=1 SV=2;B;TI_CT_PPHE
+P00745;PROC; Vitamin K-dependent protein C (Fragment) OS=Bos taurus GN=PROC PE=1 SV=1;B;TI_CT_PPHE
+P00978;AMBP; Protein AMBP OS=Bos taurus GN=AMBP PE=1 SV=2;B;TI_CT_PPHE
+P01030;CO4; Complement C4 (Fragments) OS=Bos taurus GN=C4 PE=1 SV=2;B;TI_CT_PPHE
+P01044;KNG1; Kininogen-1 OS=Bos taurus GN=KNG1 PE=1 SV=1;B;TI_CT_PPHE
+P01045;KNG2; Kininogen-2 OS=Bos taurus GN=KNG2 PE=1 SV=1;B;TI_CT_PPHE
+P01888;B2MG; Beta-2-microglobulin OS=Bos taurus GN=B2M PE=1 SV=2;B;TI_CT_PPHE
+P01966;HBA; Hemoglobin subunit alpha OS=Bos taurus GN=HBA PE=1 SV=2;B;TI_CT_PPHE
+P02070;HBB; Hemoglobin subunit beta OS=Bos taurus GN=HBB PE=1 SV=1;B;TI_CT_PPHE
+P02081;HBBF; Hemoglobin fetal subunit beta OS=Bos taurus PE=1 SV=1;B;TI_CT_PPHE
+P02453;CO1A1; Collagen alpha-1(I) chain OS=Bos taurus GN=COL1A1 PE=1 SV=3;B;TI_CT_PPHE
+P02465;CO1A2; Collagen alpha-2(I) chain OS=Bos taurus GN=COL1A2 PE=1 SV=2;B;TI_CT_PPHE
+P02584;PROF1; Profilin-1 OS=Bos taurus GN=PFN1 PE=1 SV=2;B;TI_CT_PPHE
+P02672;FIBA; Fibrinogen alpha chain OS=Bos taurus GN=FGA PE=1 SV=5;B;TI_CT_PPHE
+P02676;FIBB; Fibrinogen beta chain OS=Bos taurus GN=FGB PE=1 SV=2;B;TI_CT_PPHE
+P02769;ALBU; Serum albumin OS=Bos taurus GN=ALB PE=1 SV=4;B;TI_CT_PPHE
+P04815;BPT2; Spleen trypsin inhibitor I OS=Bos taurus PE=1 SV=2;B;TI_CT_PPHE
+P06394;K1C10; Keratin, type I cytoskeletal 10 OS=Bos taurus GN=KRT10 PE=3 SV=1;B;TI_CT_PPHE
+P06868;PLMN; Plasminogen OS=Bos taurus GN=PLG PE=1 SV=2;B;TI_CT_PPHE
+P07224;PROS; Vitamin K-dependent protein S OS=Bos taurus GN=PROS1 PE=1 SV=1;B;TI_CT_PPHE
+P07589;FINC; Fibronectin OS=Bos taurus GN=FN1 PE=1 SV=4;B;TI_CT_PPHE
+P08169;MPRI; Cation-independent mannose-6-phosphate receptor OS=Bos taurus GN=IGF2R PE=1 SV=2;B;TI_CT_PPHE
+P10096;G3P; Glyceraldehyde-3-phosphate dehydrogenase OS=Bos taurus GN=GAPDH PE=1 SV=4;B;TI_CT_PPHE
+P12763;FETUA; Alpha-2-HS-glycoprotein OS=Bos taurus GN=AHSG PE=1 SV=2;B;TI_CT_PPHE
+P12799;FIBG; Fibrinogen gamma-B chain OS=Bos taurus GN=FGG PE=1 SV=1;B;TI_CT_PPHE
+P15497;APOA1; Apolipoprotein A-I OS=Bos taurus GN=APOA1 PE=1 SV=3;B;TI_CT_PPHE
+P17690;APOH; Beta-2-glycoprotein 1 OS=Bos taurus GN=APOH PE=1 SV=4;B;TI_CT_PPHE
+P17697;CLUS; Clusterin OS=Bos taurus GN=CLU PE=1 SV=1;B;TI_CT_PPHE
+P18902;RET4; Retinol-binding protein 4 OS=Bos taurus GN=RBP4 PE=1 SV=1;B;TI_CT_PPHE
+P19035;APOC3; Apolipoprotein C-III OS=Bos taurus GN=APOC3 PE=1 SV=2;B;TI_CT_PPHE
+P28800;A2AP; Alpha-2-antiplasmin OS=Bos taurus GN=SERPINF2 PE=1 SV=2;B;TI_CT_PPHE
+P34955;A1AT; Alpha-1-antiproteinase OS=Bos taurus GN=SERPINA1 PE=1 SV=1;B;TI_CT_PPHE
+P35445;COMP; Cartilage oligomeric matrix protein OS=Bos taurus GN=COMP PE=1 SV=2;B;TI_CT_PPHE
+P41361;ANT3; Antithrombin-III OS=Bos taurus GN=SERPINC1 PE=1 SV=2;B;TI_CT_PPHE
+P42916;CL43; Collectin-43 OS=Bos taurus GN=CL43 PE=1 SV=2;B;TI_CT_PPHE
+P50448;F12AI; Factor XIIa inhibitor OS=Bos taurus PE=1 SV=1;B;TI_CT_PPHE
+P68301;MT2; Metallothionein-2 OS=Bos taurus GN=MT2 PE=1 SV=1;B;TI_CT_PPHE
+P56652;ITIH3; Inter-alpha-trypsin inhibitor heavy chain H3 OS=Bos taurus GN=ITIH3 PE=1 SV=2;B;TI_CT_PPHE
+P63258;ACTG; Actin, cytoplasmic 2 OS=Bos taurus GN=ACTG1 PE=1 SV=1;B;TI_CT_PPHE
+P61223;RAP1B; Ras-related protein Rap-1b OS=Bos taurus GN=RAP1B PE=2 SV=1;B;TI_CT_PPHE
+P62935;PPIA; Peptidyl-prolyl cis-trans isomerase A OS=Bos taurus GN=PPIA PE=1 SV=2;B;TI_CT_PPHE
+Q3ZC07;ACTC; Actin, alpha cardiac muscle 1 OS=Bos taurus GN=ACTC1 PE=2 SV=1;B;TI_CT_PPHE
+P80425;FABPL; Fatty acid-binding protein, liver OS=Bos taurus GN=FABP1 PE=1 SV=1;B;TI_CT_PPHE
+P81187;CFAB; Complement factor B OS=Bos taurus GN=CFB PE=1 SV=2;B;TI_CT_PPHE
+P81644;APOA2; Apolipoprotein A-II OS=Bos taurus GN=APOA2 PE=1 SV=2;B;TI_CT_PPHE
+P81948;TBA4A; Tubulin alpha-4A chain OS=Bos taurus GN=TUBA4A PE=1 SV=2;B;TI_CT_PPHE
+Q03247;APOE; Apolipoprotein E OS=Bos taurus GN=APOE PE=1 SV=1;B;TI_CT_PPHE
+Q05443;LUM; Lumican OS=Bos taurus GN=LUM PE=1 SV=1;B;TI_CT_PPHE
+Q0VCM5;ITIH1; Inter-alpha-trypsin inhibitor heavy chain H1 OS=Bos taurus GN=ITIH1 PE=1 SV=1;B;TI_CT_PPHE
+Q148H6;K1C28; Keratin, type I cytoskeletal 28 OS=Bos taurus GN=KRT28 PE=2 SV=1;B;TI_CT_PPHE
+Q148H7;K2C79; Keratin, type II cytoskeletal 79 OS=Bos taurus GN=KRT79 PE=2 SV=1;B;TI_CT_PPHE
+Q28065;C4BPA; C4b-binding protein alpha chain OS=Bos taurus GN=C4BPA PE=2 SV=1;B;TI_CT_PPHE
+Q28085;CFAH; Complement factor H OS=Bos taurus GN=CFH PE=1 SV=3;B;TI_CT_PPHE
+Q28107;FA5; Coagulation factor V OS=Bos taurus GN=F5 PE=1 SV=1;B;TI_CT_PPHE
+Q29443;TRFE; Serotransferrin OS=Bos taurus GN=TF PE=2 SV=1;B;TI_CT_PPHE
+Q29RQ1;CO7; Complement component C7 OS=Bos taurus GN=C7 PE=2 SV=1;B;TI_CT_PPHE
+Q29S21;K2C7; Keratin, type II cytoskeletal 7 OS=Bos taurus GN=KRT7 PE=2 SV=1;B;TI_CT_PPHE
+Q2HJ57;COTL1; Coactosin-like protein OS=Bos taurus GN=COTL1 PE=2 SV=3;B;TI_CT_PPHE
+Q3ZBU7;TBB4A; Tubulin beta-4A chain OS=Bos taurus GN=TUBB4A PE=2 SV=1;B;TI_CT_PPHE
+Q2KIG3;CBPB2; Carboxypeptidase B2 OS=Bos taurus GN=CPB2 PE=1 SV=1;B;TI_CT_PPHE
+Q2KIS7;TETN; Tetranectin OS=Bos taurus GN=CLEC3B PE=2 SV=1;B;TI_CT_PPHE
+Q2KIT0;HP20; Protein HP-20 homolog OS=Bos taurus PE=2 SV=1;B;TI_CT_PPHE
+Q2KIX7;HP251; Protein HP-25 homolog 1 OS=Bos taurus PE=1 SV=1;B;TI_CT_PPHE
+Q2KJ63;KLKB1; Plasma kallikrein OS=Bos taurus GN=KLKB1 PE=2 SV=1;B;TI_CT_PPHE
+Q2KJF1;A1BG; Alpha-1B-glycoprotein OS=Bos taurus GN=A1BG PE=1 SV=1;B;TI_CT_PPHE
+Q2UVX4;CO3; Complement C3 OS=Bos taurus GN=C3 PE=1 SV=2;B;TI_CT_PPHE
+Q32KY0;APOD; Apolipoprotein D OS=Bos taurus GN=APOD PE=2 SV=1;B;TI_CT_PPHE
+Q32PJ2;APOA4; Apolipoprotein A-IV OS=Bos taurus GN=APOA4 PE=2 SV=1;B;TI_CT_PPHE
+Q3MHN2;CO9; Complement component C9 OS=Bos taurus GN=C9 PE=2 SV=1;B;TI_CT_PPHE
+Q3MHN5;VTDB; Vitamin D-binding protein OS=Bos taurus GN=GC PE=2 SV=1;B;TI_CT_PPHE
+Q3SWW8;TSP4; Thrombospondin-4 OS=Bos taurus GN=THBS4 PE=2 SV=1;B;TI_CT_PPHE
+Q3SX14;GELS; Gelsolin OS=Bos taurus GN=GSN PE=2 SV=1;B;TI_CT_PPHE
+Q3SZ57;FETA; Alpha-fetoprotein OS=Bos taurus GN=AFP PE=2 SV=1;B;TI_CT_PPHE
+Q3SZR3;A1AG; Alpha-1-acid glycoprotein OS=Bos taurus GN=ORM1 PE=2 SV=1;B;TI_CT_PPHE
+Q3SZV7;HEMO; Hemopexin OS=Bos taurus GN=HPX PE=2 SV=1;B;TI_CT_PPHE
+Q3T021;SPAT9; Spermatogenesis-associated protein 9 OS=Bos taurus GN=SPATA9 PE=2 SV=1;B;TI_CT_PPHE
+Q3T052;ITIH4; Inter-alpha-trypsin inhibitor heavy chain H4 OS=Bos taurus GN=ITIH4 PE=1 SV=1;B;TI_CT_PPHE
+Q3Y5Z3;ADIPO; Adiponectin OS=Bos taurus GN=ADIPOQ PE=1 SV=1;B;TI_CT_PPHE
+Q58CQ9;VNN1; Pantetheinase OS=Bos taurus GN=VNN1 PE=1 SV=1;B;TI_CT_PPHE
+Q58D62;FETUB; Fetuin-B OS=Bos taurus GN=FETUB PE=1 SV=1;B;TI_CT_PPHE
+Q5E9B1;LDHB; L-lactate dehydrogenase B chain OS=Bos taurus GN=LDHB PE=2 SV=4;B;TI_CT_PPHE
+Q5E9F5;TAGL2; Transgelin-2 OS=Bos taurus GN=TAGLN2 PE=2 SV=3;B;TI_CT_PPHE
+Q5E9F7;COF1; Cofilin-1 OS=Bos taurus GN=CFL1 PE=2 SV=3;B;TI_CT_PPHE
+Q5XQN5;K2C5; Keratin, type II cytoskeletal 5 OS=Bos taurus GN=KRT5 PE=1 SV=1;B;TI_CT_PPHE
+Q6URK6;CADH5; Cadherin-5 OS=Bos taurus GN=CDH5 PE=2 SV=1;B;TI_CT_PPHE
+Q7SIH1;A2MG; Alpha-2-macroglobulin OS=Bos taurus GN=A2M PE=1 SV=2;B;TI_CT_PPHE
+Q95121;PEDF; Pigment epithelium-derived factor OS=Bos taurus GN=SERPINF1 PE=1 SV=1;B;TI_CT_PPHE
+Q95M17;CHIA; Acidic mammalian chitinase OS=Bos taurus GN=CHIA PE=1 SV=1;B;TI_CT_PPHE
+Q9BGI3;PRDX2; Peroxiredoxin-2 OS=Bos taurus GN=PRDX2 PE=2 SV=1;B;TI_CT_PPHE
+Q9N2I2;IPSP; Plasma serine protease inhibitor OS=Bos taurus GN=SERPINA5 PE=1 SV=1;B;TI_CT_PPHE
+Q9TT36;THBG; Thyroxine-binding globulin OS=Bos taurus GN=SERPINA7 PE=2 SV=1;B;TI_CT_PPHE
+Q9TTE1;SPA31; Serpin A3-1 OS=Bos taurus GN=SERPINA3-1 PE=1 SV=3;B;TI_CT_PPHE
+Q9TTJ5;RGN; Regucalcin OS=Bos taurus GN=RGN PE=2 SV=1;B;TI_CT_PPHE
+Q9XSJ4;ENOA; Alpha-enolase OS=Bos taurus GN=ENO1 PE=1 SV=4;B;TI_CT_PPHE
+P08670;VIME;Vimentin OS=Homo sapiens GN=VIM PE=1 SV=4;H;TI_CT_PPHE
+P00002;PC;PepCalMix;H;TI_CT_PPHE
+P04264;K2C1;Keratin, type II cytoskeletal 1 OS=Homo sapiens GN=KRT1 PE=1 SV=6;H;TI_CT_PPHE
+P35908;K22E;Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens GN=KRT2 PE=1 SV=2;H;TI_CT_PPHE
+P13645;K1C10;Keratin, type I cytoskeletal 10 OS=Homo sapiens GN=KRT10 PE=1 SV=6;H;TI_CT_PPHE
+P35527;K1C9;Keratin, type I cytoskeletal 9 OS=Homo sapiens GN=KRT9 PE=1 SV=3;H;TI_CT_PPHE
+P02533;K1C14;Keratin, type I cytoskeletal 14 OS=Homo sapiens GN=KRT14 PE=1 SV=4;H;TI_CT_PPHE
+P02545;LMNA;Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1;H;TI_CT_PPHE
+P14618;KPYM;Pyruvate kinase PKM OS=Homo sapiens GN=PKM PE=1 SV=4;H;TI_CT_PPHE
+P07437;TBB5;Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 SV=2;H;TI_CT_PPHE
+P07355;ANXA2;Annexin A2 OS=Homo sapiens GN=ANXA2 PE=1 SV=2;H;TI_CT_PPHE
+P60709;ACTB;Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 SV=1;H;TI_CT_PPHE
+P68032;ACTC;Actin, alpha cardiac muscle 1 OS=Homo sapiens GN=ACTC1 PE=1 SV=1;H;TI_CT_PPHE
+P13639;EF2;Elongation factor 2 OS=Homo sapiens GN=EEF2 PE=1 SV=4;H;TI_CT_PPHE
+P06733;ENOA;Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2;H;TI_CT_PPHE
+P11021;GRP78;78 kDa glucose-regulated protein OS=Homo sapiens GN=HSPA5 PE=1 SV=2;H;TI_CT_PPHE
+P68363;TBA1B;Tubulin alpha-1B chain OS=Homo sapiens GN=TUBA1B PE=1 SV=1;H;TI_CT_PPHE
+Q13509;TBB3;Tubulin beta-3 chain OS=Homo sapiens GN=TUBB3 PE=1 SV=2;H;TI_CT_PPHE
+P04406;G3P;Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens GN=GAPDH PE=1 SV=3;H;TI_CT_PPHE
+P08758;ANXA5;Annexin A5 OS=Homo sapiens GN=ANXA5 PE=1 SV=2;H;TI_CT_PPHE
+P00338;LDHA;L-lactate dehydrogenase A chain OS=Homo sapiens GN=LDHA PE=1 SV=2;H;TI_CT_PPHE
+Q5VTE0;EF1A3;Putative elongation factor 1-alpha-like 3 OS=Homo sapiens GN=EEF1A1P5 PE=5 SV=1;H;TI_CT_PPHE
+P04083;ANXA1;Annexin A1 OS=Homo sapiens GN=ANXA1 PE=1 SV=2;H;TI_CT_PPHE
+P11142;HSP7C;Heat shock cognate 71 kDa protein OS=Homo sapiens GN=HSPA8 PE=1 SV=1;H;TI_CT_PPHE
+P68104;EF1A1;Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1;H;TI_CT_PPHE
+P08238;HS90B;Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4;H;TI_CT_PPHE
+P14625;ENPL;Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1;H;TI_CT_PPHE
+P13647;K2C5;Keratin, type II cytoskeletal 5 OS=Homo sapiens GN=KRT5 PE=1 SV=3;H;TI_CT_PPHE
+O43707;ACTN4;Alpha-actinin-4 OS=Homo sapiens GN=ACTN4 PE=1 SV=2;H;TI_CT_PPHE
+P21333;FLNA;Isoform 2 of Filamin-A OS=Homo sapiens GN=FLNA;H;TI_CT_PPHE
+P60174;TPIS;Triosephosphate isomerase OS=Homo sapiens GN=TPI1 PE=1 SV=3;H;TI_CT_PPHE
+P62937;PPIA;Peptidyl-prolyl cis-trans isomerase A OS=Homo sapiens GN=PPIA PE=1 SV=2;H;TI_CT_PPHE
+P07900;HS90A;Heat shock protein HSP 90-alpha OS=Homo sapiens GN=HSP90AA1 PE=1 SV=5;H;TI_CT_PPHE
+P62805;H4;Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2;H;TI_CT_PPHE
+P04075;ALDOA;Isoform 2 of Fructose-bisphosphate aldolase A OS=Homo sapiens GN=ALDOA;H;TI_CT_PPHE
+P63104;1433Z;14-3-3 protein zeta/delta OS=Homo sapiens GN=YWHAZ PE=1 SV=1;H;TI_CT_PPHE
+P27797;CALR;Calreticulin OS=Homo sapiens GN=CALR PE=1 SV=1;H;TI_CT_PPHE
+Q8N257;H2B3B;Histone H2B type 3-B OS=Homo sapiens GN=HIST3H2BB PE=1 SV=3;H;TI_CT_PPHE
+P09382;LEG1;Galectin-1 OS=Homo sapiens GN=LGALS1 PE=1 SV=2;H;TI_CT_PPHE
+P31946;1433B;Isoform Short of 14-3-3 protein beta/alpha OS=Homo sapiens GN=YWHAB;H;TI_CT_PPHE
+P25705;ATPA;Isoform 2 of ATP synthase subunit alpha, mitochondrial OS=Homo sapiens GN=ATP5A1;H;TI_CT_PPHE
+P07737;PROF1;Profilin-1 OS=Homo sapiens GN=PFN1 PE=1 SV=2;H;TI_CT_PPHE
+P62328;TYB4;Thymosin beta-4 OS=Homo sapiens GN=TMSB4X PE=1 SV=2;H;TI_CT_PPHE
+P07195;LDHB;L-lactate dehydrogenase B chain OS=Homo sapiens GN=LDHB PE=1 SV=2;H;TI_CT_PPHE
+P10809;CH60;60 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPD1 PE=1 SV=2;H;TI_CT_PPHE
+P81605;DCD;Dermcidin OS=Homo sapiens GN=DCD PE=1 SV=2;H;TI_CT_PPHE
+P35579;MYH9;Myosin-9 OS=Homo sapiens GN=MYH9 PE=1 SV=4;H;TI_CT_PPHE
+Q96QV6;H2A1A;Histone H2A type 1-A OS=Homo sapiens GN=HIST1H2AA PE=1 SV=3;H;TI_CT_PPHE
+Q9NZT1;CALL5;Calmodulin-like protein 5 OS=Homo sapiens GN=CALML5 PE=1 SV=2;H;TI_CT_PPHE
+P00558;PGK1;Phosphoglycerate kinase 1 OS=Homo sapiens GN=PGK1 PE=1 SV=3;H;TI_CT_PPHE
+P69905;HBA;Hemoglobin subunit alpha OS=Homo sapiens GN=HBA1 PE=1 SV=2;H;TI_CT_PPHE
+Q15149;PLEC;Isoform 4 of Plectin OS=Homo sapiens GN=PLEC;H;TI_CT_PPHE
+P30101;PDIA3;Protein disulfide-isomerase A3 OS=Homo sapiens GN=PDIA3 PE=1 SV=4;H;TI_CT_PPHE
+O43852;CALU;Calumenin OS=Homo sapiens GN=CALU PE=1 SV=2;H;TI_CT_PPHE
+P06576;ATPB;ATP synthase subunit beta, mitochondrial OS=Homo sapiens GN=ATP5B PE=1 SV=3;H;TI_CT_PPHE
+P50990;TCPQ;Isoform 2 of T-complex protein 1 subunit theta OS=Homo sapiens GN=CCT8;H;TI_CT_PPHE
+P60660;MYL6;Myosin light polypeptide 6 OS=Homo sapiens GN=MYL6 PE=1 SV=2;H;TI_CT_PPHE
+P32119;PRDX2;Peroxiredoxin-2 OS=Homo sapiens GN=PRDX2 PE=1 SV=5;H;TI_CT_PPHE
+P40926;MDHM;Malate dehydrogenase, mitochondrial OS=Homo sapiens GN=MDH2 PE=1 SV=3;H;TI_CT_PPHE
+O60701;UGDH;UDP-glucose 6-dehydrogenase OS=Homo sapiens GN=UGDH PE=1 SV=1;H;TI_CT_PPHE
+P31949;S10AB;Protein S100-A11 OS=Homo sapiens GN=S100A11 PE=1 SV=2;H;TI_CT_PPHE
+Q09666;AHNK;Neuroblast differentiation-associated protein AHNAK OS=Homo sapiens GN=AHNAK PE=1 SV=2;H;TI_CT_PPHE
+P05388;RLA0;60S acidic ribosomal protein P0 OS=Homo sapiens GN=RPLP0 PE=1 SV=1;H;TI_CT_PPHE
+P07237;PDIA1;Protein disulfide-isomerase OS=Homo sapiens GN=P4HB PE=1 SV=3;H;TI_CT_PPHE
+P22626;ROA2;Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens GN=HNRNPA2B1 PE=1 SV=2;H;TI_CT_PPHE
+Q06830;PRDX1;Peroxiredoxin-1 OS=Homo sapiens GN=PRDX1 PE=1 SV=1;H;TI_CT_PPHE
+P61604;CH10;10 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPE1 PE=1 SV=2;H;TI_CT_PPHE
+P26038;MOES;Moesin OS=Homo sapiens GN=MSN PE=1 SV=3;H;TI_CT_PPHE
+P62081;RS7;40S ribosomal protein S7 OS=Homo sapiens GN=RPS7 PE=1 SV=1;H;TI_CT_PPHE
+O60814;H2B1K;Histone H2B type 1-K OS=Homo sapiens GN=HIST1H2BK PE=1 SV=3;H;TI_CT_PPHE
+P62277;RS13;40S ribosomal protein S13 OS=Homo sapiens GN=RPS13 PE=1 SV=2;H;TI_CT_PPHE
+P0DP23;CALM1;Calmodulin-1 OS=Homo sapiens GN=CALM1 PE=1 SV=1;H;TI_CT_PPHE
+P50395;GDIB;Rab GDP dissociation inhibitor beta OS=Homo sapiens GN=GDI2 PE=1 SV=2;H;TI_CT_PPHE
+P37802;TAGL2;Transgelin-2 OS=Homo sapiens GN=TAGLN2 PE=1 SV=3;H;TI_CT_PPHE
+P22392;NDKB;Nucleoside diphosphate kinase B OS=Homo sapiens GN=NME2 PE=1 SV=1;H;TI_CT_PPHE
+P23284;PPIB;Peptidyl-prolyl cis-trans isomerase B OS=Homo sapiens GN=PPIB PE=1 SV=2;H;TI_CT_PPHE
+P05387;RLA2;60S acidic ribosomal protein P2 OS=Homo sapiens GN=RPLP2 PE=1 SV=1;H;TI_CT_PPHE
+P17931;LEG3;Galectin-3 OS=Homo sapiens GN=LGALS3 PE=1 SV=5;H;TI_CT_PPHE
+P62424;RL7A;60S ribosomal protein L7a OS=Homo sapiens GN=RPL7A PE=1 SV=2;H;TI_CT_PPHE
+P09601;HMOX1;Heme oxygenase 1 OS=Homo sapiens GN=HMOX1 PE=1 SV=1;H;TI_CT_PPHE
+P26641;EF1G;Elongation factor 1-gamma OS=Homo sapiens GN=EEF1G PE=1 SV=3;H;TI_CT_PPHE
+P62851;RS25;40S ribosomal protein S25 OS=Homo sapiens GN=RPS25 PE=1 SV=1;H;TI_CT_PPHE
+Q14103;HNRPD;Heterogeneous nuclear ribonucleoprotein D0 OS=Homo sapiens GN=HNRNPD PE=1 SV=1;H;TI_CT_PPHE
+P29692;EF1D;Isoform 2 of Elongation factor 1-delta OS=Homo sapiens GN=EEF1D;H;TI_CT_PPHE
+Q16658;FSCN1;Fascin OS=Homo sapiens GN=FSCN1 PE=1 SV=3;H;TI_CT_PPHE
+Q07065;CKAP4;Cytoskeleton-associated protein 4 OS=Homo sapiens GN=CKAP4 PE=1 SV=2;H;TI_CT_PPHE
+P15880;RS2;40S ribosomal protein S2 OS=Homo sapiens GN=RPS2 PE=1 SV=2;H;TI_CT_PPHE
+P23396;RS3;40S ribosomal protein S3 OS=Homo sapiens GN=RPS3 PE=1 SV=2;H;TI_CT_PPHE
+P01023;A2MG;Alpha-2-macroglobulin OS=Homo sapiens GN=A2M PE=1 SV=3;H;TI_CT_PPHE
+P16070;CD44;Isoform 10 of CD44 antigen OS=Homo sapiens GN=CD44;H;TI_CT_PPHE
+P06748;NPM;Isoform 2 of Nucleophosmin OS=Homo sapiens GN=NPM1;H;TI_CT_PPHE
+P08133;ANXA6;Annexin A6 OS=Homo sapiens GN=ANXA6 PE=1 SV=3;H;TI_CT_PPHE
+Q15084;PDIA6;Isoform 5 of Protein disulfide-isomerase A6 OS=Homo sapiens GN=PDIA6;H;TI_CT_PPHE
+P39019;RS19;40S ribosomal protein S19 OS=Homo sapiens GN=RPS19 PE=1 SV=2;H;TI_CT_PPHE
+P62269;RS18;40S ribosomal protein S18 OS=Homo sapiens GN=RPS18 PE=1 SV=3;H;TI_CT_PPHE
+P78371;TCPB;T-complex protein 1 subunit beta OS=Homo sapiens GN=CCT2 PE=1 SV=4;H;TI_CT_PPHE
+P06702;S10A9;Protein S100-A9 OS=Homo sapiens GN=S100A9 PE=1 SV=1;H;TI_CT_PPHE
+Q14974;IMB1;Importin subunit beta-1 OS=Homo sapiens GN=KPNB1 PE=1 SV=2;H;TI_CT_PPHE
+Q9H299;SH3L3;SH3 domain-binding glutamic acid-rich-like protein 3 OS=Homo sapiens GN=SH3BGRL3 PE=1 SV=1;H;TI_CT_PPHE
+P27824;CALX;Calnexin OS=Homo sapiens GN=CANX PE=1 SV=2;H;TI_CT_PPHE
+O00571;DDX3X;ATP-dependent RNA helicase DDX3X OS=Homo sapiens GN=DDX3X PE=1 SV=3;H;TI_CT_PPHE
+P05141;ADT2;ADP/ATP translocase 2 OS=Homo sapiens GN=SLC25A5 PE=1 SV=7;H;TI_CT_PPHE
+P19338;NUCL;Nucleolin OS=Homo sapiens GN=NCL PE=1 SV=3;H;TI_CT_PPHE
+P16402;H13;Histone H1.3 OS=Homo sapiens GN=HIST1H1D PE=1 SV=2;H;TI_CT_PPHE
+P49368;TCPG;T-complex protein 1 subunit gamma OS=Homo sapiens GN=CCT3 PE=1 SV=4;H;TI_CT_PPHE
+O60664-3;PLIN3;Isoform 3 of Perilipin-3 OS=Homo sapiens GN=PLIN3;H;TI_CT_PPHE
+O60506;HNRPQ;Isoform 2 of Heterogeneous nuclear ribonucleoprotein Q OS=Homo sapiens GN=SYNCRIP;H;TI_CT_PPHE
+P15144;AMPN;Aminopeptidase N OS=Homo sapiens GN=ANPEP PE=1 SV=4;H;TI_CT_PPHE
+P18085;ARF4;ADP-ribosylation factor 4 OS=Homo sapiens GN=ARF4 PE=1 SV=3;H;TI_CT_PPHE
+P30041;PRDX6;Peroxiredoxin-6 OS=Homo sapiens GN=PRDX6 PE=1 SV=3;H;TI_CT_PPHE
+P61353;RL27;60S ribosomal protein L27 OS=Homo sapiens GN=RPL27 PE=1 SV=2;H;TI_CT_PPHE
+Q02878;RL6;60S ribosomal protein L6 OS=Homo sapiens GN=RPL6 PE=1 SV=3;H;TI_CT_PPHE
+Q5D862;FILA2;Filaggrin-2 OS=Homo sapiens GN=FLG2 PE=1 SV=1;H;TI_CT_PPHE
+P07858;CATB;Cathepsin B OS=Homo sapiens GN=CTSB PE=1 SV=3;H;TI_CT_PPHE
+P60866;RS20;Isoform 2 of 40S ribosomal protein S20 OS=Homo sapiens GN=RPS20;H;TI_CT_PPHE
+Q00610;CLH1;Isoform 2 of Clathrin heavy chain 1 OS=Homo sapiens GN=CLTC;H;TI_CT_PPHE
+P05109;S10A8;Protein S100-A8 OS=Homo sapiens GN=S100A8 PE=1 SV=1;H;TI_CT_PPHE
+Q00839;HNRPU;Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens GN=HNRNPU PE=1 SV=6;H;TI_CT_PPHE
+O15511-2;ARPC5;Isoform 2 of Actin-related protein 2/3 complex subunit 5 OS=Homo sapiens GN=ARPC5;H;TI_CT_PPHE
+Q16695;H31T;Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3;H;TI_CT_PPHE
+Q9P2E9-2;RRBP1;Isoform 1 of Ribosome-binding protein 1 OS=Homo sapiens GN=RRBP1;H;TI_CT_PPHE
+P62826;RAN;GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3;H;TI_CT_PPHE
+P07339;CATD;Cathepsin D OS=Homo sapiens GN=CTSD PE=1 SV=1;H;TI_CT_PPHE
+P62701;RS4X;40S ribosomal protein S4, X isoform OS=Homo sapiens GN=RPS4X PE=1 SV=2;H;TI_CT_PPHE
+P61163;ACTZ;Alpha-centractin OS=Homo sapiens GN=ACTR1A PE=1 SV=1;H;TI_CT_PPHE
+P02655;APOC2;Apolipoprotein C-II OS=Homo sapiens GN=APOC2 PE=1 SV=1;H;TI_CT_PPHE
+P46781;RS9;40S ribosomal protein S9 OS=Homo sapiens GN=RPS9 PE=1 SV=3;H;TI_CT_PPHE
+P51149;RAB7A;Ras-related protein Rab-7a OS=Homo sapiens GN=RAB7A PE=1 SV=1;H;TI_CT_PPHE
+Q99584;S10AD;Protein S100-A13 OS=Homo sapiens GN=S100A13 PE=1 SV=1;H;TI_CT_PPHE
+P46940;IQGA1;Ras GTPase-activating-like protein IQGAP1 OS=Homo sapiens GN=IQGAP1 PE=1 SV=1;H;TI_CT_PPHE
+Q96AY3;FKB10;Peptidyl-prolyl cis-trans isomerase FKBP10 OS=Homo sapiens GN=FKBP10 PE=1 SV=1;H;TI_CT_PPHE
+P06396-2;GELS;Isoform 2 of Gelsolin OS=Homo sapiens GN=GSN;H;TI_CT_PPHE
+Q16881;TRXR1;Isoform 3 of Thioredoxin reductase 1, cytoplasmic OS=Homo sapiens GN=TXNRD1;H;TI_CT_PPHE
+O75874;IDHC;Isocitrate dehydrogenase [NADP] cytoplasmic OS=Homo sapiens GN=IDH1 PE=1 SV=2;H;TI_CT_PPHE
+P04632;CPNS1;Calpain small subunit 1 OS=Homo sapiens GN=CAPNS1 PE=1 SV=1;H;TI_CT_PPHE
+P63244;RACK1;Receptor of activated protein C kinase 1 OS=Homo sapiens GN=RACK1 PE=1 SV=3;H;TI_CT_PPHE
+P55072;TERA;Transitional endoplasmic reticulum ATPase OS=Homo sapiens GN=VCP PE=1 SV=4;H;TI_CT_PPHE
+P61981;1433G;14-3-3 protein gamma OS=Homo sapiens GN=YWHAG PE=1 SV=2;H;TI_CT_PPHE
+P62847;RS24;40S ribosomal protein S24 OS=Homo sapiens GN=RPS24 PE=1 SV=1;H;TI_CT_PPHE
+P62899;RL31;60S ribosomal protein L31 OS=Homo sapiens GN=RPL31 PE=1 SV=1;H;TI_CT_PPHE
+Q6ZMT4-2;KDM7A;Isoform 2 of Lysine-specific demethylase 7A OS=Homo sapiens GN=KDM7A;H;TI_CT_PPHE
+P02768;ALBU;Serum albumin OS=Homo sapiens GN=ALB PE=1 SV=2;H;TI_CT_PPHE
+P17987;TCPA;T-complex protein 1 subunit alpha OS=Homo sapiens GN=TCP1 PE=1 SV=1;H;TI_CT_PPHE
+P02647;APOA1;Apolipoprotein A-I OS=Homo sapiens GN=APOA1 PE=1 SV=1;H;TI_CT_PPHE
+P62906;RL10A;60S ribosomal protein L10a OS=Homo sapiens GN=RPL10A PE=1 SV=2;H;TI_CT_PPHE
+Q9Y616;IRAK3;Interleukin-1 receptor-associated kinase 3 OS=Homo sapiens GN=IRAK3 PE=1 SV=2;H;TI_CT_PPHE
+Q9H307;PININ;Pinin OS=Homo sapiens GN=PNN PE=1 SV=4;H;TI_CT_PPHE
+Q99471;PFD5;Prefoldin subunit 5 OS=Homo sapiens GN=PFDN5 PE=1 SV=2;H;TI_CT_PPHE
+Q9NZM1;MYOF;Isoform 2 of Myoferlin OS=Homo sapiens GN=MYOF;H;TI_CT_PPHE
+P50452;SPB8;Serpin B8 OS=Homo sapiens GN=SERPINB8 PE=1 SV=2;H;TI_CT_PPHE
+P30086;PEBP1;Phosphatidylethanolamine-binding protein 1 OS=Homo sapiens GN=PEBP1 PE=1 SV=3;H;TI_CT_PPHE
+P35606;COPB2;Coatomer subunit beta' OS=Homo sapiens GN=COPB2 PE=1 SV=2;H;TI_CT_PPHE
+Q5T7P8-2;SYT6;Isoform 2 of Synaptotagmin-6 OS=Homo sapiens GN=SYT6;H;TI_CT_PPHE
+Q92598-2;HS105;Isoform Beta of Heat shock protein 105 kDa OS=Homo sapiens GN=HSPH1;H;TI_CT_PPHE
+P63241;IF5A1;Eukaryotic translation initiation factor 5A-1 OS=Homo sapiens GN=EIF5A PE=1 SV=2;H;TI_CT_PPHE
+P62837;UB2D2;Ubiquitin-conjugating enzyme E2 D2 OS=Homo sapiens GN=UBE2D2 PE=1 SV=1;H;TI_CT_PPHE
+P62266;RS23;40S ribosomal protein S23 OS=Homo sapiens GN=RPS23 PE=1 SV=3;H;TI_CT_PPHE
+P60953;CDC42;Cell division control protein 42 homolog OS=Homo sapiens GN=CDC42 PE=1 SV=2;H;TI_CT_PPHE
+P41250;GARS;Glycine--tRNA ligase OS=Homo sapiens GN=GARS PE=1 SV=3;H;TI_CT_PPHE
+P52597;HNRPF;Heterogeneous nuclear ribonucleoprotein F OS=Homo sapiens GN=HNRNPF PE=1 SV=3;H;TI_CT_PPHE
+P10599-2;THIO;Isoform 2 of Thioredoxin OS=Homo sapiens GN=TXN;H;TI_CT_PPHE
+P62861;RS30;40S ribosomal protein S30 OS=Homo sapiens GN=FAU PE=1 SV=1;H;TI_CT_PPHE
+P49721;PSB2;Proteasome subunit beta type-2 OS=Homo sapiens GN=PSMB2 PE=1 SV=1;H;TI_CT_PPHE
+P46776;RL27A;60S ribosomal protein L27a OS=Homo sapiens GN=RPL27A PE=1 SV=2;H;TI_CT_PPHE
+P25787;PSA2;Proteasome subunit alpha type-2 OS=Homo sapiens GN=PSMA2 PE=1 SV=2;H;TI_CT_PPHE
+P68036;UB2L3;Ubiquitin-conjugating enzyme E2 L3 OS=Homo sapiens GN=UBE2L3 PE=1 SV=1;H;TI_CT_PPHE
+P08195;4F2;4F2 cell-surface antigen heavy chain OS=Homo sapiens GN=SLC3A2 PE=1 SV=3;H;TI_CT_PPHE
+P46821;MAP1B;Microtubule-associated protein 1B OS=Homo sapiens GN=MAP1B PE=1 SV=2;H;TI_CT_PPHE
+P05386;RLA1;60S acidic ribosomal protein P1 OS=Homo sapiens GN=RPLP1 PE=1 SV=1;H;TI_CT_PPHE
+O14558;HSPB6;Heat shock protein beta-6 OS=Homo sapiens GN=HSPB6 PE=1 SV=2;H;TI_CT_PPHE
+A6PVY3;F177B;Protein FAM177B OS=Homo sapiens GN=FAM177B PE=2 SV=1;H;TI_CT_PPHE
+P46777;RL5;60S ribosomal protein L5 OS=Homo sapiens GN=RPL5 PE=1 SV=3;H;TI_CT_PPHE
+P18621;RL17;60S ribosomal protein L17 OS=Homo sapiens GN=RPL17 PE=1 SV=3;H;TI_CT_PPHE
+A1L595;K1C17; Keratin, type I cytoskeletal 17 OS=Bos taurus GN=KRT17 PE=2 SV=1;B;TI_CT
+A2I7M9;SPA32; Serpin A3-2 OS=Bos taurus GN=SERPINA3-2 PE=3 SV=1;B;TI_CT
+A2I7N0;SPA34; Serpin A3-4 OS=Bos taurus GN=SERPINA3-4 PE=3 SV=1;B;TI_CT
+A2I7N1;SPA35; Serpin A3-5 OS=Bos taurus GN=SERPINA3-5 PE=3 SV=1;B;TI_CT
+A2I7N2;SPA36; Serpin A3-6 OS=Bos taurus GN=SERPINA3-6 PE=3 SV=1;B;TI_CT
+A2I7N3;SPA37; Serpin A3-7 OS=Bos taurus GN=SERPINA3-7 PE=3 SV=1;B;TI_CT
+A6QPQ2;SPA38; Serpin A3-8 OS=Bos taurus GN=SERPINA3-8 PE=2 SV=1;B;TI_CT
+A7E3W2;LG3BP; Galectin-3-binding protein OS=Bos taurus GN=LGALS3BP PE=1 SV=1;B;TI_CT
+E1BF81;CBG; Corticosteroid-binding globulin OS=Bos taurus GN=SERPINA6 PE=3 SV=1;B;TI_CT
+O46375;TTHY; Transthyretin OS=Bos taurus GN=TTR PE=1 SV=1;B;TI_CT
+P00442;SODC; Superoxide dismutase [Cu-Zn] OS=Bos taurus GN=SOD1 PE=1 SV=2;B;TI_CT
+P00735;THRB; Prothrombin OS=Bos taurus GN=F2 PE=1 SV=2;B;TI_CT
+P00741;FA9; Coagulation factor IX OS=Bos taurus GN=F9 PE=1 SV=2;B;TI_CT
+P00745;PROC; Vitamin K-dependent protein C (Fragment) OS=Bos taurus GN=PROC PE=1 SV=1;B;TI_CT
+P00978;AMBP; Protein AMBP OS=Bos taurus GN=AMBP PE=1 SV=2;B;TI_CT
+P01030;CO4; Complement C4 (Fragments) OS=Bos taurus GN=C4 PE=1 SV=2;B;TI_CT
+P01044;KNG1; Kininogen-1 OS=Bos taurus GN=KNG1 PE=1 SV=1;B;TI_CT
+P01045;KNG2; Kininogen-2 OS=Bos taurus GN=KNG2 PE=1 SV=1;B;TI_CT
+P01888;B2MG; Beta-2-microglobulin OS=Bos taurus GN=B2M PE=1 SV=2;B;TI_CT
+P01966;HBA; Hemoglobin subunit alpha OS=Bos taurus GN=HBA PE=1 SV=2;B;TI_CT
+P02070;HBB; Hemoglobin subunit beta OS=Bos taurus GN=HBB PE=1 SV=1;B;TI_CT
+P02081;HBBF; Hemoglobin fetal subunit beta OS=Bos taurus PE=1 SV=1;B;TI_CT
+P02453;CO1A1; Collagen alpha-1(I) chain OS=Bos taurus GN=COL1A1 PE=1 SV=3;B;TI_CT
+P02465;CO1A2; Collagen alpha-2(I) chain OS=Bos taurus GN=COL1A2 PE=1 SV=2;B;TI_CT
+P02584;PROF1; Profilin-1 OS=Bos taurus GN=PFN1 PE=1 SV=2;B;TI_CT
+P02672;FIBA; Fibrinogen alpha chain OS=Bos taurus GN=FGA PE=1 SV=5;B;TI_CT
+P02676;FIBB; Fibrinogen beta chain OS=Bos taurus GN=FGB PE=1 SV=2;B;TI_CT
+P02769;ALBU; Serum albumin OS=Bos taurus GN=ALB PE=1 SV=4;B;TI_CT
+P04815;BPT2; Spleen trypsin inhibitor I OS=Bos taurus PE=1 SV=2;B;TI_CT
+P06394;K1C10; Keratin, type I cytoskeletal 10 OS=Bos taurus GN=KRT10 PE=3 SV=1;B;TI_CT
+P06868;PLMN; Plasminogen OS=Bos taurus GN=PLG PE=1 SV=2;B;TI_CT
+P07224;PROS; Vitamin K-dependent protein S OS=Bos taurus GN=PROS1 PE=1 SV=1;B;TI_CT
+P07589;FINC; Fibronectin OS=Bos taurus GN=FN1 PE=1 SV=4;B;TI_CT
+P08169;MPRI; Cation-independent mannose-6-phosphate receptor OS=Bos taurus GN=IGF2R PE=1 SV=2;B;TI_CT
+P10096;G3P; Glyceraldehyde-3-phosphate dehydrogenase OS=Bos taurus GN=GAPDH PE=1 SV=4;B;TI_CT
+P12763;FETUA; Alpha-2-HS-glycoprotein OS=Bos taurus GN=AHSG PE=1 SV=2;B;TI_CT
+P12799;FIBG; Fibrinogen gamma-B chain OS=Bos taurus GN=FGG PE=1 SV=1;B;TI_CT
+P15497;APOA1; Apolipoprotein A-I OS=Bos taurus GN=APOA1 PE=1 SV=3;B;TI_CT
+P17690;APOH; Beta-2-glycoprotein 1 OS=Bos taurus GN=APOH PE=1 SV=4;B;TI_CT
+P17697;CLUS; Clusterin OS=Bos taurus GN=CLU PE=1 SV=1;B;TI_CT
+P18902;RET4; Retinol-binding protein 4 OS=Bos taurus GN=RBP4 PE=1 SV=1;B;TI_CT
+P19035;APOC3; Apolipoprotein C-III OS=Bos taurus GN=APOC3 PE=1 SV=2;B;TI_CT
+P28800;A2AP; Alpha-2-antiplasmin OS=Bos taurus GN=SERPINF2 PE=1 SV=2;B;TI_CT
+P34955;A1AT; Alpha-1-antiproteinase OS=Bos taurus GN=SERPINA1 PE=1 SV=1;B;TI_CT
+P35445;COMP; Cartilage oligomeric matrix protein OS=Bos taurus GN=COMP PE=1 SV=2;B;TI_CT
+P41361;ANT3; Antithrombin-III OS=Bos taurus GN=SERPINC1 PE=1 SV=2;B;TI_CT
+P42916;CL43; Collectin-43 OS=Bos taurus GN=CL43 PE=1 SV=2;B;TI_CT
+P50448;F12AI; Factor XIIa inhibitor OS=Bos taurus PE=1 SV=1;B;TI_CT
+P68301;MT2; Metallothionein-2 OS=Bos taurus GN=MT2 PE=1 SV=1;B;TI_CT
+P56652;ITIH3; Inter-alpha-trypsin inhibitor heavy chain H3 OS=Bos taurus GN=ITIH3 PE=1 SV=2;B;TI_CT
+P63258;ACTG; Actin, cytoplasmic 2 OS=Bos taurus GN=ACTG1 PE=1 SV=1;B;TI_CT
+P61223;RAP1B; Ras-related protein Rap-1b OS=Bos taurus GN=RAP1B PE=2 SV=1;B;TI_CT
+P62935;PPIA; Peptidyl-prolyl cis-trans isomerase A OS=Bos taurus GN=PPIA PE=1 SV=2;B;TI_CT
+Q3ZC07;ACTC; Actin, alpha cardiac muscle 1 OS=Bos taurus GN=ACTC1 PE=2 SV=1;B;TI_CT
+P80425;FABPL; Fatty acid-binding protein, liver OS=Bos taurus GN=FABP1 PE=1 SV=1;B;TI_CT
+P81187;CFAB; Complement factor B OS=Bos taurus GN=CFB PE=1 SV=2;B;TI_CT
+P81644;APOA2; Apolipoprotein A-II OS=Bos taurus GN=APOA2 PE=1 SV=2;B;TI_CT
+P81948;TBA4A; Tubulin alpha-4A chain OS=Bos taurus GN=TUBA4A PE=1 SV=2;B;TI_CT
+Q03247;APOE; Apolipoprotein E OS=Bos taurus GN=APOE PE=1 SV=1;B;TI_CT
+Q05443;LUM; Lumican OS=Bos taurus GN=LUM PE=1 SV=1;B;TI_CT
+Q0VCM5;ITIH1; Inter-alpha-trypsin inhibitor heavy chain H1 OS=Bos taurus GN=ITIH1 PE=1 SV=1;B;TI_CT
+Q148H6;K1C28; Keratin, type I cytoskeletal 28 OS=Bos taurus GN=KRT28 PE=2 SV=1;B;TI_CT
+Q148H7;K2C79; Keratin, type II cytoskeletal 79 OS=Bos taurus GN=KRT79 PE=2 SV=1;B;TI_CT
+Q28065;C4BPA; C4b-binding protein alpha chain OS=Bos taurus GN=C4BPA PE=2 SV=1;B;TI_CT
+Q28085;CFAH; Complement factor H OS=Bos taurus GN=CFH PE=1 SV=3;B;TI_CT
+Q28107;FA5; Coagulation factor V OS=Bos taurus GN=F5 PE=1 SV=1;B;TI_CT
+Q29443;TRFE; Serotransferrin OS=Bos taurus GN=TF PE=2 SV=1;B;TI_CT
+Q29RQ1;CO7; Complement component C7 OS=Bos taurus GN=C7 PE=2 SV=1;B;TI_CT
+Q29S21;K2C7; Keratin, type II cytoskeletal 7 OS=Bos taurus GN=KRT7 PE=2 SV=1;B;TI_CT
+Q2HJ57;COTL1; Coactosin-like protein OS=Bos taurus GN=COTL1 PE=2 SV=3;B;TI_CT
+Q3ZBU7;TBB4A; Tubulin beta-4A chain OS=Bos taurus GN=TUBB4A PE=2 SV=1;B;TI_CT
+Q2KIG3;CBPB2; Carboxypeptidase B2 OS=Bos taurus GN=CPB2 PE=1 SV=1;B;TI_CT
+Q2KIS7;TETN; Tetranectin OS=Bos taurus GN=CLEC3B PE=2 SV=1;B;TI_CT
+Q2KIT0;HP20; Protein HP-20 homolog OS=Bos taurus PE=2 SV=1;B;TI_CT
+Q2KIX7;HP251; Protein HP-25 homolog 1 OS=Bos taurus PE=1 SV=1;B;TI_CT
+Q2KJ63;KLKB1; Plasma kallikrein OS=Bos taurus GN=KLKB1 PE=2 SV=1;B;TI_CT
+Q2KJF1;A1BG; Alpha-1B-glycoprotein OS=Bos taurus GN=A1BG PE=1 SV=1;B;TI_CT
+Q2UVX4;CO3; Complement C3 OS=Bos taurus GN=C3 PE=1 SV=2;B;TI_CT
+Q32KY0;APOD; Apolipoprotein D OS=Bos taurus GN=APOD PE=2 SV=1;B;TI_CT
+Q32PJ2;APOA4; Apolipoprotein A-IV OS=Bos taurus GN=APOA4 PE=2 SV=1;B;TI_CT
+Q3MHN2;CO9; Complement component C9 OS=Bos taurus GN=C9 PE=2 SV=1;B;TI_CT
+Q3MHN5;VTDB; Vitamin D-binding protein OS=Bos taurus GN=GC PE=2 SV=1;B;TI_CT
+Q3SWW8;TSP4; Thrombospondin-4 OS=Bos taurus GN=THBS4 PE=2 SV=1;B;TI_CT
+Q3SX14;GELS; Gelsolin OS=Bos taurus GN=GSN PE=2 SV=1;B;TI_CT
+Q3SZ57;FETA; Alpha-fetoprotein OS=Bos taurus GN=AFP PE=2 SV=1;B;TI_CT
+Q3SZR3;A1AG; Alpha-1-acid glycoprotein OS=Bos taurus GN=ORM1 PE=2 SV=1;B;TI_CT
+Q3SZV7;HEMO; Hemopexin OS=Bos taurus GN=HPX PE=2 SV=1;B;TI_CT
+Q3T021;SPAT9; Spermatogenesis-associated protein 9 OS=Bos taurus GN=SPATA9 PE=2 SV=1;B;TI_CT
+Q3T052;ITIH4; Inter-alpha-trypsin inhibitor heavy chain H4 OS=Bos taurus GN=ITIH4 PE=1 SV=1;B;TI_CT
+Q3Y5Z3;ADIPO; Adiponectin OS=Bos taurus GN=ADIPOQ PE=1 SV=1;B;TI_CT
+Q58CQ9;VNN1; Pantetheinase OS=Bos taurus GN=VNN1 PE=1 SV=1;B;TI_CT
+Q58D62;FETUB; Fetuin-B OS=Bos taurus GN=FETUB PE=1 SV=1;B;TI_CT
+Q5E9B1;LDHB; L-lactate dehydrogenase B chain OS=Bos taurus GN=LDHB PE=2 SV=4;B;TI_CT
+Q5E9F5;TAGL2; Transgelin-2 OS=Bos taurus GN=TAGLN2 PE=2 SV=3;B;TI_CT
+Q5E9F7;COF1; Cofilin-1 OS=Bos taurus GN=CFL1 PE=2 SV=3;B;TI_CT
+Q5XQN5;K2C5; Keratin, type II cytoskeletal 5 OS=Bos taurus GN=KRT5 PE=1 SV=1;B;TI_CT
+Q6URK6;CADH5; Cadherin-5 OS=Bos taurus GN=CDH5 PE=2 SV=1;B;TI_CT
+Q7SIH1;A2MG; Alpha-2-macroglobulin OS=Bos taurus GN=A2M PE=1 SV=2;B;TI_CT
+Q95121;PEDF; Pigment epithelium-derived factor OS=Bos taurus GN=SERPINF1 PE=1 SV=1;B;TI_CT
+Q95M17;CHIA; Acidic mammalian chitinase OS=Bos taurus GN=CHIA PE=1 SV=1;B;TI_CT
+Q9BGI3;PRDX2; Peroxiredoxin-2 OS=Bos taurus GN=PRDX2 PE=2 SV=1;B;TI_CT
+Q9N2I2;IPSP; Plasma serine protease inhibitor OS=Bos taurus GN=SERPINA5 PE=1 SV=1;B;TI_CT
+Q9TT36;THBG; Thyroxine-binding globulin OS=Bos taurus GN=SERPINA7 PE=2 SV=1;B;TI_CT
+Q9TTE1;SPA31; Serpin A3-1 OS=Bos taurus GN=SERPINA3-1 PE=1 SV=3;B;TI_CT
+Q9TTJ5;RGN; Regucalcin OS=Bos taurus GN=RGN PE=2 SV=1;B;TI_CT
+Q9XSJ4;ENOA; Alpha-enolase OS=Bos taurus GN=ENO1 PE=1 SV=4;B;TI_CT
+P08670;VIME;Vimentin OS=Homo sapiens GN=VIM PE=1 SV=4;H;TI_CT
+P00002;PC;PepCalMix;H;TI_CT
+P04264;K2C1;Keratin, type II cytoskeletal 1 OS=Homo sapiens GN=KRT1 PE=1 SV=6;H;TI_CT
+P35908;K22E;Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens GN=KRT2 PE=1 SV=2;H;TI_CT
+P13645;K1C10;Keratin, type I cytoskeletal 10 OS=Homo sapiens GN=KRT10 PE=1 SV=6;H;TI_CT
+P35527;K1C9;Keratin, type I cytoskeletal 9 OS=Homo sapiens GN=KRT9 PE=1 SV=3;H;TI_CT
+P02533;K1C14;Keratin, type I cytoskeletal 14 OS=Homo sapiens GN=KRT14 PE=1 SV=4;H;TI_CT
+P02545;LMNA;Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1;H;TI_CT
+P14618;KPYM;Pyruvate kinase PKM OS=Homo sapiens GN=PKM PE=1 SV=4;H;TI_CT
+P07437;TBB5;Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 SV=2;H;TI_CT
+P07355;ANXA2;Annexin A2 OS=Homo sapiens GN=ANXA2 PE=1 SV=2;H;TI_CT
+P60709;ACTB;Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 SV=1;H;TI_CT
+P68032;ACTC;Actin, alpha cardiac muscle 1 OS=Homo sapiens GN=ACTC1 PE=1 SV=1;H;TI_CT
+P13639;EF2;Elongation factor 2 OS=Homo sapiens GN=EEF2 PE=1 SV=4;H;TI_CT
+P06733;ENOA;Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2;H;TI_CT
+P11021;GRP78;78 kDa glucose-regulated protein OS=Homo sapiens GN=HSPA5 PE=1 SV=2;H;TI_CT
+P68363;TBA1B;Tubulin alpha-1B chain OS=Homo sapiens GN=TUBA1B PE=1 SV=1;H;TI_CT
+Q13509;TBB3;Tubulin beta-3 chain OS=Homo sapiens GN=TUBB3 PE=1 SV=2;H;TI_CT
+P04406;G3P;Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens GN=GAPDH PE=1 SV=3;H;TI_CT
+P08758;ANXA5;Annexin A5 OS=Homo sapiens GN=ANXA5 PE=1 SV=2;H;TI_CT
+P00338;LDHA;L-lactate dehydrogenase A chain OS=Homo sapiens GN=LDHA PE=1 SV=2;H;TI_CT
+Q5VTE0;EF1A3;Putative elongation factor 1-alpha-like 3 OS=Homo sapiens GN=EEF1A1P5 PE=5 SV=1;H;TI_CT
+P04083;ANXA1;Annexin A1 OS=Homo sapiens GN=ANXA1 PE=1 SV=2;H;TI_CT
+P11142;HSP7C;Heat shock cognate 71 kDa protein OS=Homo sapiens GN=HSPA8 PE=1 SV=1;H;TI_CT
+P68104;EF1A1;Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1;H;TI_CT
+P08238;HS90B;Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4;H;TI_CT
+P14625;ENPL;Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1;H;TI_CT
+P13647;K2C5;Keratin, type II cytoskeletal 5 OS=Homo sapiens GN=KRT5 PE=1 SV=3;H;TI_CT
+O43707;ACTN4;Alpha-actinin-4 OS=Homo sapiens GN=ACTN4 PE=1 SV=2;H;TI_CT
+P21333;FLNA;Isoform 2 of Filamin-A OS=Homo sapiens GN=FLNA;H;TI_CT
+P60174;TPIS;Triosephosphate isomerase OS=Homo sapiens GN=TPI1 PE=1 SV=3;H;TI_CT
+P62937;PPIA;Peptidyl-prolyl cis-trans isomerase A OS=Homo sapiens GN=PPIA PE=1 SV=2;H;TI_CT
+P07900;HS90A;Heat shock protein HSP 90-alpha OS=Homo sapiens GN=HSP90AA1 PE=1 SV=5;H;TI_CT
+P62805;H4;Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2;H;TI_CT
+P04075;ALDOA;Isoform 2 of Fructose-bisphosphate aldolase A OS=Homo sapiens GN=ALDOA;H;TI_CT
+P63104;1433Z;14-3-3 protein zeta/delta OS=Homo sapiens GN=YWHAZ PE=1 SV=1;H;TI_CT
+P27797;CALR;Calreticulin OS=Homo sapiens GN=CALR PE=1 SV=1;H;TI_CT
+Q8N257;H2B3B;Histone H2B type 3-B OS=Homo sapiens GN=HIST3H2BB PE=1 SV=3;H;TI_CT
+P09382;LEG1;Galectin-1 OS=Homo sapiens GN=LGALS1 PE=1 SV=2;H;TI_CT
+P31946;1433B;Isoform Short of 14-3-3 protein beta/alpha OS=Homo sapiens GN=YWHAB;H;TI_CT
+P25705;ATPA;Isoform 2 of ATP synthase subunit alpha, mitochondrial OS=Homo sapiens GN=ATP5A1;H;TI_CT
+P07737;PROF1;Profilin-1 OS=Homo sapiens GN=PFN1 PE=1 SV=2;H;TI_CT
+P62328;TYB4;Thymosin beta-4 OS=Homo sapiens GN=TMSB4X PE=1 SV=2;H;TI_CT
+P07195;LDHB;L-lactate dehydrogenase B chain OS=Homo sapiens GN=LDHB PE=1 SV=2;H;TI_CT
+P10809;CH60;60 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPD1 PE=1 SV=2;H;TI_CT
+P81605;DCD;Dermcidin OS=Homo sapiens GN=DCD PE=1 SV=2;H;TI_CT
+P35579;MYH9;Myosin-9 OS=Homo sapiens GN=MYH9 PE=1 SV=4;H;TI_CT
+Q96QV6;H2A1A;Histone H2A type 1-A OS=Homo sapiens GN=HIST1H2AA PE=1 SV=3;H;TI_CT
+Q9NZT1;CALL5;Calmodulin-like protein 5 OS=Homo sapiens GN=CALML5 PE=1 SV=2;H;TI_CT
+P00558;PGK1;Phosphoglycerate kinase 1 OS=Homo sapiens GN=PGK1 PE=1 SV=3;H;TI_CT
+P69905;HBA;Hemoglobin subunit alpha OS=Homo sapiens GN=HBA1 PE=1 SV=2;H;TI_CT
+Q15149;PLEC;Isoform 4 of Plectin OS=Homo sapiens GN=PLEC;H;TI_CT
+P30101;PDIA3;Protein disulfide-isomerase A3 OS=Homo sapiens GN=PDIA3 PE=1 SV=4;H;TI_CT
+O43852;CALU;Calumenin OS=Homo sapiens GN=CALU PE=1 SV=2;H;TI_CT
+P06576;ATPB;ATP synthase subunit beta, mitochondrial OS=Homo sapiens GN=ATP5B PE=1 SV=3;H;TI_CT
+P50990;TCPQ;Isoform 2 of T-complex protein 1 subunit theta OS=Homo sapiens GN=CCT8;H;TI_CT
+P60660;MYL6;Myosin light polypeptide 6 OS=Homo sapiens GN=MYL6 PE=1 SV=2;H;TI_CT
+P32119;PRDX2;Peroxiredoxin-2 OS=Homo sapiens GN=PRDX2 PE=1 SV=5;H;TI_CT
+P40926;MDHM;Malate dehydrogenase, mitochondrial OS=Homo sapiens GN=MDH2 PE=1 SV=3;H;TI_CT
+O60701;UGDH;UDP-glucose 6-dehydrogenase OS=Homo sapiens GN=UGDH PE=1 SV=1;H;TI_CT
+P31949;S10AB;Protein S100-A11 OS=Homo sapiens GN=S100A11 PE=1 SV=2;H;TI_CT
+Q09666;AHNK;Neuroblast differentiation-associated protein AHNAK OS=Homo sapiens GN=AHNAK PE=1 SV=2;H;TI_CT
+P05388;RLA0;60S acidic ribosomal protein P0 OS=Homo sapiens GN=RPLP0 PE=1 SV=1;H;TI_CT
+P07237;PDIA1;Protein disulfide-isomerase OS=Homo sapiens GN=P4HB PE=1 SV=3;H;TI_CT
+P22626;ROA2;Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens GN=HNRNPA2B1 PE=1 SV=2;H;TI_CT
+Q06830;PRDX1;Peroxiredoxin-1 OS=Homo sapiens GN=PRDX1 PE=1 SV=1;H;TI_CT
+P61604;CH10;10 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPE1 PE=1 SV=2;H;TI_CT
+P26038;MOES;Moesin OS=Homo sapiens GN=MSN PE=1 SV=3;H;TI_CT
+P62081;RS7;40S ribosomal protein S7 OS=Homo sapiens GN=RPS7 PE=1 SV=1;H;TI_CT
+O60814;H2B1K;Histone H2B type 1-K OS=Homo sapiens GN=HIST1H2BK PE=1 SV=3;H;TI_CT
+P62277;RS13;40S ribosomal protein S13 OS=Homo sapiens GN=RPS13 PE=1 SV=2;H;TI_CT
+P0DP23;CALM1;Calmodulin-1 OS=Homo sapiens GN=CALM1 PE=1 SV=1;H;TI_CT
+P50395;GDIB;Rab GDP dissociation inhibitor beta OS=Homo sapiens GN=GDI2 PE=1 SV=2;H;TI_CT
+P37802;TAGL2;Transgelin-2 OS=Homo sapiens GN=TAGLN2 PE=1 SV=3;H;TI_CT
+P22392;NDKB;Nucleoside diphosphate kinase B OS=Homo sapiens GN=NME2 PE=1 SV=1;H;TI_CT
+P23284;PPIB;Peptidyl-prolyl cis-trans isomerase B OS=Homo sapiens GN=PPIB PE=1 SV=2;H;TI_CT
+P05387;RLA2;60S acidic ribosomal protein P2 OS=Homo sapiens GN=RPLP2 PE=1 SV=1;H;TI_CT
+P17931;LEG3;Galectin-3 OS=Homo sapiens GN=LGALS3 PE=1 SV=5;H;TI_CT
+P62424;RL7A;60S ribosomal protein L7a OS=Homo sapiens GN=RPL7A PE=1 SV=2;H;TI_CT
+P09601;HMOX1;Heme oxygenase 1 OS=Homo sapiens GN=HMOX1 PE=1 SV=1;H;TI_CT
+P26641;EF1G;Elongation factor 1-gamma OS=Homo sapiens GN=EEF1G PE=1 SV=3;H;TI_CT
+P62851;RS25;40S ribosomal protein S25 OS=Homo sapiens GN=RPS25 PE=1 SV=1;H;TI_CT
+Q14103;HNRPD;Heterogeneous nuclear ribonucleoprotein D0 OS=Homo sapiens GN=HNRNPD PE=1 SV=1;H;TI_CT
+P29692;EF1D;Isoform 2 of Elongation factor 1-delta OS=Homo sapiens GN=EEF1D;H;TI_CT
+Q16658;FSCN1;Fascin OS=Homo sapiens GN=FSCN1 PE=1 SV=3;H;TI_CT
+Q07065;CKAP4;Cytoskeleton-associated protein 4 OS=Homo sapiens GN=CKAP4 PE=1 SV=2;H;TI_CT
+P15880;RS2;40S ribosomal protein S2 OS=Homo sapiens GN=RPS2 PE=1 SV=2;H;TI_CT
+P23396;RS3;40S ribosomal protein S3 OS=Homo sapiens GN=RPS3 PE=1 SV=2;H;TI_CT
+P01023;A2MG;Alpha-2-macroglobulin OS=Homo sapiens GN=A2M PE=1 SV=3;H;TI_CT
+P16070;CD44;Isoform 10 of CD44 antigen OS=Homo sapiens GN=CD44;H;TI_CT
+P06748;NPM;Isoform 2 of Nucleophosmin OS=Homo sapiens GN=NPM1;H;TI_CT
+P08133;ANXA6;Annexin A6 OS=Homo sapiens GN=ANXA6 PE=1 SV=3;H;TI_CT
+Q15084;PDIA6;Isoform 5 of Protein disulfide-isomerase A6 OS=Homo sapiens GN=PDIA6;H;TI_CT
+P39019;RS19;40S ribosomal protein S19 OS=Homo sapiens GN=RPS19 PE=1 SV=2;H;TI_CT
+P62269;RS18;40S ribosomal protein S18 OS=Homo sapiens GN=RPS18 PE=1 SV=3;H;TI_CT
+P78371;TCPB;T-complex protein 1 subunit beta OS=Homo sapiens GN=CCT2 PE=1 SV=4;H;TI_CT
+P06702;S10A9;Protein S100-A9 OS=Homo sapiens GN=S100A9 PE=1 SV=1;H;TI_CT
+Q14974;IMB1;Importin subunit beta-1 OS=Homo sapiens GN=KPNB1 PE=1 SV=2;H;TI_CT
+Q9H299;SH3L3;SH3 domain-binding glutamic acid-rich-like protein 3 OS=Homo sapiens GN=SH3BGRL3 PE=1 SV=1;H;TI_CT
+P27824;CALX;Calnexin OS=Homo sapiens GN=CANX PE=1 SV=2;H;TI_CT
+O00571;DDX3X;ATP-dependent RNA helicase DDX3X OS=Homo sapiens GN=DDX3X PE=1 SV=3;H;TI_CT
+P05141;ADT2;ADP/ATP translocase 2 OS=Homo sapiens GN=SLC25A5 PE=1 SV=7;H;TI_CT
+P19338;NUCL;Nucleolin OS=Homo sapiens GN=NCL PE=1 SV=3;H;TI_CT
+P16402;H13;Histone H1.3 OS=Homo sapiens GN=HIST1H1D PE=1 SV=2;H;TI_CT
+P49368;TCPG;T-complex protein 1 subunit gamma OS=Homo sapiens GN=CCT3 PE=1 SV=4;H;TI_CT
+O60664-3;PLIN3;Isoform 3 of Perilipin-3 OS=Homo sapiens GN=PLIN3;H;TI_CT
+O60506;HNRPQ;Isoform 2 of Heterogeneous nuclear ribonucleoprotein Q OS=Homo sapiens GN=SYNCRIP;H;TI_CT
+P15144;AMPN;Aminopeptidase N OS=Homo sapiens GN=ANPEP PE=1 SV=4;H;TI_CT
+P18085;ARF4;ADP-ribosylation factor 4 OS=Homo sapiens GN=ARF4 PE=1 SV=3;H;TI_CT
+P30041;PRDX6;Peroxiredoxin-6 OS=Homo sapiens GN=PRDX6 PE=1 SV=3;H;TI_CT
+P61353;RL27;60S ribosomal protein L27 OS=Homo sapiens GN=RPL27 PE=1 SV=2;H;TI_CT
+Q02878;RL6;60S ribosomal protein L6 OS=Homo sapiens GN=RPL6 PE=1 SV=3;H;TI_CT
+Q5D862;FILA2;Filaggrin-2 OS=Homo sapiens GN=FLG2 PE=1 SV=1;H;TI_CT
+P07858;CATB;Cathepsin B OS=Homo sapiens GN=CTSB PE=1 SV=3;H;TI_CT
+P60866;RS20;Isoform 2 of 40S ribosomal protein S20 OS=Homo sapiens GN=RPS20;H;TI_CT
+Q00610;CLH1;Isoform 2 of Clathrin heavy chain 1 OS=Homo sapiens GN=CLTC;H;TI_CT
+P05109;S10A8;Protein S100-A8 OS=Homo sapiens GN=S100A8 PE=1 SV=1;H;TI_CT
+Q00839;HNRPU;Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens GN=HNRNPU PE=1 SV=6;H;TI_CT
+O15511-2;ARPC5;Isoform 2 of Actin-related protein 2/3 complex subunit 5 OS=Homo sapiens GN=ARPC5;H;TI_CT
+Q16695;H31T;Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3;H;TI_CT
+Q9P2E9-2;RRBP1;Isoform 1 of Ribosome-binding protein 1 OS=Homo sapiens GN=RRBP1;H;TI_CT
+P62826;RAN;GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3;H;TI_CT
+P07339;CATD;Cathepsin D OS=Homo sapiens GN=CTSD PE=1 SV=1;H;TI_CT
+P62701;RS4X;40S ribosomal protein S4, X isoform OS=Homo sapiens GN=RPS4X PE=1 SV=2;H;TI_CT
+P61163;ACTZ;Alpha-centractin OS=Homo sapiens GN=ACTR1A PE=1 SV=1;H;TI_CT
+P02655;APOC2;Apolipoprotein C-II OS=Homo sapiens GN=APOC2 PE=1 SV=1;H;TI_CT
+P46781;RS9;40S ribosomal protein S9 OS=Homo sapiens GN=RPS9 PE=1 SV=3;H;TI_CT
+P51149;RAB7A;Ras-related protein Rab-7a OS=Homo sapiens GN=RAB7A PE=1 SV=1;H;TI_CT
+Q99584;S10AD;Protein S100-A13 OS=Homo sapiens GN=S100A13 PE=1 SV=1;H;TI_CT
+P46940;IQGA1;Ras GTPase-activating-like protein IQGAP1 OS=Homo sapiens GN=IQGAP1 PE=1 SV=1;H;TI_CT
+Q96AY3;FKB10;Peptidyl-prolyl cis-trans isomerase FKBP10 OS=Homo sapiens GN=FKBP10 PE=1 SV=1;H;TI_CT
+P06396-2;GELS;Isoform 2 of Gelsolin OS=Homo sapiens GN=GSN;H;TI_CT
+Q16881;TRXR1;Isoform 3 of Thioredoxin reductase 1, cytoplasmic OS=Homo sapiens GN=TXNRD1;H;TI_CT
+O75874;IDHC;Isocitrate dehydrogenase [NADP] cytoplasmic OS=Homo sapiens GN=IDH1 PE=1 SV=2;H;TI_CT
+P04632;CPNS1;Calpain small subunit 1 OS=Homo sapiens GN=CAPNS1 PE=1 SV=1;H;TI_CT
+P63244;RACK1;Receptor of activated protein C kinase 1 OS=Homo sapiens GN=RACK1 PE=1 SV=3;H;TI_CT
+P55072;TERA;Transitional endoplasmic reticulum ATPase OS=Homo sapiens GN=VCP PE=1 SV=4;H;TI_CT
+P61981;1433G;14-3-3 protein gamma OS=Homo sapiens GN=YWHAG PE=1 SV=2;H;TI_CT
+P62847;RS24;40S ribosomal protein S24 OS=Homo sapiens GN=RPS24 PE=1 SV=1;H;TI_CT
+P62899;RL31;60S ribosomal protein L31 OS=Homo sapiens GN=RPL31 PE=1 SV=1;H;TI_CT
+Q6ZMT4-2;KDM7A;Isoform 2 of Lysine-specific demethylase 7A OS=Homo sapiens GN=KDM7A;H;TI_CT
+P02768;ALBU;Serum albumin OS=Homo sapiens GN=ALB PE=1 SV=2;H;TI_CT
+P17987;TCPA;T-complex protein 1 subunit alpha OS=Homo sapiens GN=TCP1 PE=1 SV=1;H;TI_CT
+P02647;APOA1;Apolipoprotein A-I OS=Homo sapiens GN=APOA1 PE=1 SV=1;H;TI_CT
+P62906;RL10A;60S ribosomal protein L10a OS=Homo sapiens GN=RPL10A PE=1 SV=2;H;TI_CT
+Q9Y616;IRAK3;Interleukin-1 receptor-associated kinase 3 OS=Homo sapiens GN=IRAK3 PE=1 SV=2;H;TI_CT
+Q9H307;PININ;Pinin OS=Homo sapiens GN=PNN PE=1 SV=4;H;TI_CT
+Q99471;PFD5;Prefoldin subunit 5 OS=Homo sapiens GN=PFDN5 PE=1 SV=2;H;TI_CT
+Q9NZM1;MYOF;Isoform 2 of Myoferlin OS=Homo sapiens GN=MYOF;H;TI_CT
+P50452;SPB8;Serpin B8 OS=Homo sapiens GN=SERPINB8 PE=1 SV=2;H;TI_CT
+P30086;PEBP1;Phosphatidylethanolamine-binding protein 1 OS=Homo sapiens GN=PEBP1 PE=1 SV=3;H;TI_CT
+P35606;COPB2;Coatomer subunit beta' OS=Homo sapiens GN=COPB2 PE=1 SV=2;H;TI_CT
+Q5T7P8-2;SYT6;Isoform 2 of Synaptotagmin-6 OS=Homo sapiens GN=SYT6;H;TI_CT
+Q92598-2;HS105;Isoform Beta of Heat shock protein 105 kDa OS=Homo sapiens GN=HSPH1;H;TI_CT
+P63241;IF5A1;Eukaryotic translation initiation factor 5A-1 OS=Homo sapiens GN=EIF5A PE=1 SV=2;H;TI_CT
+P62837;UB2D2;Ubiquitin-conjugating enzyme E2 D2 OS=Homo sapiens GN=UBE2D2 PE=1 SV=1;H;TI_CT
+P62266;RS23;40S ribosomal protein S23 OS=Homo sapiens GN=RPS23 PE=1 SV=3;H;TI_CT
+P60953;CDC42;Cell division control protein 42 homolog OS=Homo sapiens GN=CDC42 PE=1 SV=2;H;TI_CT
+P41250;GARS;Glycine--tRNA ligase OS=Homo sapiens GN=GARS PE=1 SV=3;H;TI_CT
+P52597;HNRPF;Heterogeneous nuclear ribonucleoprotein F OS=Homo sapiens GN=HNRNPF PE=1 SV=3;H;TI_CT
+P10599-2;THIO;Isoform 2 of Thioredoxin OS=Homo sapiens GN=TXN;H;TI_CT
+P62861;RS30;40S ribosomal protein S30 OS=Homo sapiens GN=FAU PE=1 SV=1;H;TI_CT
+P49721;PSB2;Proteasome subunit beta type-2 OS=Homo sapiens GN=PSMB2 PE=1 SV=1;H;TI_CT
+P46776;RL27A;60S ribosomal protein L27a OS=Homo sapiens GN=RPL27A PE=1 SV=2;H;TI_CT
+P25787;PSA2;Proteasome subunit alpha type-2 OS=Homo sapiens GN=PSMA2 PE=1 SV=2;H;TI_CT
+P68036;UB2L3;Ubiquitin-conjugating enzyme E2 L3 OS=Homo sapiens GN=UBE2L3 PE=1 SV=1;H;TI_CT
+P08195;4F2;4F2 cell-surface antigen heavy chain OS=Homo sapiens GN=SLC3A2 PE=1 SV=3;H;TI_CT
+P46821;MAP1B;Microtubule-associated protein 1B OS=Homo sapiens GN=MAP1B PE=1 SV=2;H;TI_CT
+P05386;RLA1;60S acidic ribosomal protein P1 OS=Homo sapiens GN=RPLP1 PE=1 SV=1;H;TI_CT
+O14558;HSPB6;Heat shock protein beta-6 OS=Homo sapiens GN=HSPB6 PE=1 SV=2;H;TI_CT
+A6PVY3;F177B;Protein FAM177B OS=Homo sapiens GN=FAM177B PE=2 SV=1;H;TI_CT
+P46777;RL5;60S ribosomal protein L5 OS=Homo sapiens GN=RPL5 PE=1 SV=3;H;TI_CT
+P18621;RL17;60S ribosomal protein L17 OS=Homo sapiens GN=RPL17 PE=1 SV=3;H;TI_CT
+A1L595;K1C17; Keratin, type I cytoskeletal 17 OS=Bos taurus GN=KRT17 PE=2 SV=1;B;TI_PPHE
+A2I7M9;SPA32; Serpin A3-2 OS=Bos taurus GN=SERPINA3-2 PE=3 SV=1;B;TI_PPHE
+A2I7N0;SPA34; Serpin A3-4 OS=Bos taurus GN=SERPINA3-4 PE=3 SV=1;B;TI_PPHE
+A2I7N1;SPA35; Serpin A3-5 OS=Bos taurus GN=SERPINA3-5 PE=3 SV=1;B;TI_PPHE
+A2I7N2;SPA36; Serpin A3-6 OS=Bos taurus GN=SERPINA3-6 PE=3 SV=1;B;TI_PPHE
+A2I7N3;SPA37; Serpin A3-7 OS=Bos taurus GN=SERPINA3-7 PE=3 SV=1;B;TI_PPHE
+A6QPQ2;SPA38; Serpin A3-8 OS=Bos taurus GN=SERPINA3-8 PE=2 SV=1;B;TI_PPHE
+A7E3W2;LG3BP; Galectin-3-binding protein OS=Bos taurus GN=LGALS3BP PE=1 SV=1;B;TI_PPHE
+E1BF81;CBG; Corticosteroid-binding globulin OS=Bos taurus GN=SERPINA6 PE=3 SV=1;B;TI_PPHE
+O46375;TTHY; Transthyretin OS=Bos taurus GN=TTR PE=1 SV=1;B;TI_PPHE
+P00442;SODC; Superoxide dismutase [Cu-Zn] OS=Bos taurus GN=SOD1 PE=1 SV=2;B;TI_PPHE
+P00735;THRB; Prothrombin OS=Bos taurus GN=F2 PE=1 SV=2;B;TI_PPHE
+P00741;FA9; Coagulation factor IX OS=Bos taurus GN=F9 PE=1 SV=2;B;TI_PPHE
+P00745;PROC; Vitamin K-dependent protein C (Fragment) OS=Bos taurus GN=PROC PE=1 SV=1;B;TI_PPHE
+P00978;AMBP; Protein AMBP OS=Bos taurus GN=AMBP PE=1 SV=2;B;TI_PPHE
+P01030;CO4; Complement C4 (Fragments) OS=Bos taurus GN=C4 PE=1 SV=2;B;TI_PPHE
+P01044;KNG1; Kininogen-1 OS=Bos taurus GN=KNG1 PE=1 SV=1;B;TI_PPHE
+P01045;KNG2; Kininogen-2 OS=Bos taurus GN=KNG2 PE=1 SV=1;B;TI_PPHE
+P01888;B2MG; Beta-2-microglobulin OS=Bos taurus GN=B2M PE=1 SV=2;B;TI_PPHE
+P01966;HBA; Hemoglobin subunit alpha OS=Bos taurus GN=HBA PE=1 SV=2;B;TI_PPHE
+P02070;HBB; Hemoglobin subunit beta OS=Bos taurus GN=HBB PE=1 SV=1;B;TI_PPHE
+P02081;HBBF; Hemoglobin fetal subunit beta OS=Bos taurus PE=1 SV=1;B;TI_PPHE
+P02453;CO1A1; Collagen alpha-1(I) chain OS=Bos taurus GN=COL1A1 PE=1 SV=3;B;TI_PPHE
+P02465;CO1A2; Collagen alpha-2(I) chain OS=Bos taurus GN=COL1A2 PE=1 SV=2;B;TI_PPHE
+P02584;PROF1; Profilin-1 OS=Bos taurus GN=PFN1 PE=1 SV=2;B;TI_PPHE
+P02672;FIBA; Fibrinogen alpha chain OS=Bos taurus GN=FGA PE=1 SV=5;B;TI_PPHE
+P02676;FIBB; Fibrinogen beta chain OS=Bos taurus GN=FGB PE=1 SV=2;B;TI_PPHE
+P02769;ALBU; Serum albumin OS=Bos taurus GN=ALB PE=1 SV=4;B;TI_PPHE
+P04815;BPT2; Spleen trypsin inhibitor I OS=Bos taurus PE=1 SV=2;B;TI_PPHE
+P06394;K1C10; Keratin, type I cytoskeletal 10 OS=Bos taurus GN=KRT10 PE=3 SV=1;B;TI_PPHE
+P06868;PLMN; Plasminogen OS=Bos taurus GN=PLG PE=1 SV=2;B;TI_PPHE
+P07224;PROS; Vitamin K-dependent protein S OS=Bos taurus GN=PROS1 PE=1 SV=1;B;TI_PPHE
+P07589;FINC; Fibronectin OS=Bos taurus GN=FN1 PE=1 SV=4;B;TI_PPHE
+P08169;MPRI; Cation-independent mannose-6-phosphate receptor OS=Bos taurus GN=IGF2R PE=1 SV=2;B;TI_PPHE
+P10096;G3P; Glyceraldehyde-3-phosphate dehydrogenase OS=Bos taurus GN=GAPDH PE=1 SV=4;B;TI_PPHE
+P12763;FETUA; Alpha-2-HS-glycoprotein OS=Bos taurus GN=AHSG PE=1 SV=2;B;TI_PPHE
+P12799;FIBG; Fibrinogen gamma-B chain OS=Bos taurus GN=FGG PE=1 SV=1;B;TI_PPHE
+P15497;APOA1; Apolipoprotein A-I OS=Bos taurus GN=APOA1 PE=1 SV=3;B;TI_PPHE
+P17690;APOH; Beta-2-glycoprotein 1 OS=Bos taurus GN=APOH PE=1 SV=4;B;TI_PPHE
+P17697;CLUS; Clusterin OS=Bos taurus GN=CLU PE=1 SV=1;B;TI_PPHE
+P18902;RET4; Retinol-binding protein 4 OS=Bos taurus GN=RBP4 PE=1 SV=1;B;TI_PPHE
+P19035;APOC3; Apolipoprotein C-III OS=Bos taurus GN=APOC3 PE=1 SV=2;B;TI_PPHE
+P28800;A2AP; Alpha-2-antiplasmin OS=Bos taurus GN=SERPINF2 PE=1 SV=2;B;TI_PPHE
+P34955;A1AT; Alpha-1-antiproteinase OS=Bos taurus GN=SERPINA1 PE=1 SV=1;B;TI_PPHE
+P35445;COMP; Cartilage oligomeric matrix protein OS=Bos taurus GN=COMP PE=1 SV=2;B;TI_PPHE
+P41361;ANT3; Antithrombin-III OS=Bos taurus GN=SERPINC1 PE=1 SV=2;B;TI_PPHE
+P42916;CL43; Collectin-43 OS=Bos taurus GN=CL43 PE=1 SV=2;B;TI_PPHE
+P50448;F12AI; Factor XIIa inhibitor OS=Bos taurus PE=1 SV=1;B;TI_PPHE
+P68301;MT2; Metallothionein-2 OS=Bos taurus GN=MT2 PE=1 SV=1;B;TI_PPHE
+P56652;ITIH3; Inter-alpha-trypsin inhibitor heavy chain H3 OS=Bos taurus GN=ITIH3 PE=1 SV=2;B;TI_PPHE
+P63258;ACTG; Actin, cytoplasmic 2 OS=Bos taurus GN=ACTG1 PE=1 SV=1;B;TI_PPHE
+P61223;RAP1B; Ras-related protein Rap-1b OS=Bos taurus GN=RAP1B PE=2 SV=1;B;TI_PPHE
+P62935;PPIA; Peptidyl-prolyl cis-trans isomerase A OS=Bos taurus GN=PPIA PE=1 SV=2;B;TI_PPHE
+Q3ZC07;ACTC; Actin, alpha cardiac muscle 1 OS=Bos taurus GN=ACTC1 PE=2 SV=1;B;TI_PPHE
+P80425;FABPL; Fatty acid-binding protein, liver OS=Bos taurus GN=FABP1 PE=1 SV=1;B;TI_PPHE
+P81187;CFAB; Complement factor B OS=Bos taurus GN=CFB PE=1 SV=2;B;TI_PPHE
+P81644;APOA2; Apolipoprotein A-II OS=Bos taurus GN=APOA2 PE=1 SV=2;B;TI_PPHE
+P81948;TBA4A; Tubulin alpha-4A chain OS=Bos taurus GN=TUBA4A PE=1 SV=2;B;TI_PPHE
+Q03247;APOE; Apolipoprotein E OS=Bos taurus GN=APOE PE=1 SV=1;B;TI_PPHE
+Q05443;LUM; Lumican OS=Bos taurus GN=LUM PE=1 SV=1;B;TI_PPHE
+Q0VCM5;ITIH1; Inter-alpha-trypsin inhibitor heavy chain H1 OS=Bos taurus GN=ITIH1 PE=1 SV=1;B;TI_PPHE
+Q148H6;K1C28; Keratin, type I cytoskeletal 28 OS=Bos taurus GN=KRT28 PE=2 SV=1;B;TI_PPHE
+Q148H7;K2C79; Keratin, type II cytoskeletal 79 OS=Bos taurus GN=KRT79 PE=2 SV=1;B;TI_PPHE
+Q28065;C4BPA; C4b-binding protein alpha chain OS=Bos taurus GN=C4BPA PE=2 SV=1;B;TI_PPHE
+Q28085;CFAH; Complement factor H OS=Bos taurus GN=CFH PE=1 SV=3;B;TI_PPHE
+Q28107;FA5; Coagulation factor V OS=Bos taurus GN=F5 PE=1 SV=1;B;TI_PPHE
+Q29443;TRFE; Serotransferrin OS=Bos taurus GN=TF PE=2 SV=1;B;TI_PPHE
+Q29RQ1;CO7; Complement component C7 OS=Bos taurus GN=C7 PE=2 SV=1;B;TI_PPHE
+Q29S21;K2C7; Keratin, type II cytoskeletal 7 OS=Bos taurus GN=KRT7 PE=2 SV=1;B;TI_PPHE
+Q2HJ57;COTL1; Coactosin-like protein OS=Bos taurus GN=COTL1 PE=2 SV=3;B;TI_PPHE
+Q3ZBU7;TBB4A; Tubulin beta-4A chain OS=Bos taurus GN=TUBB4A PE=2 SV=1;B;TI_PPHE
+Q2KIG3;CBPB2; Carboxypeptidase B2 OS=Bos taurus GN=CPB2 PE=1 SV=1;B;TI_PPHE
+Q2KIS7;TETN; Tetranectin OS=Bos taurus GN=CLEC3B PE=2 SV=1;B;TI_PPHE
+Q2KIT0;HP20; Protein HP-20 homolog OS=Bos taurus PE=2 SV=1;B;TI_PPHE
+Q2KIX7;HP251; Protein HP-25 homolog 1 OS=Bos taurus PE=1 SV=1;B;TI_PPHE
+Q2KJ63;KLKB1; Plasma kallikrein OS=Bos taurus GN=KLKB1 PE=2 SV=1;B;TI_PPHE
+Q2KJF1;A1BG; Alpha-1B-glycoprotein OS=Bos taurus GN=A1BG PE=1 SV=1;B;TI_PPHE
+Q2UVX4;CO3; Complement C3 OS=Bos taurus GN=C3 PE=1 SV=2;B;TI_PPHE
+Q32KY0;APOD; Apolipoprotein D OS=Bos taurus GN=APOD PE=2 SV=1;B;TI_PPHE
+Q32PJ2;APOA4; Apolipoprotein A-IV OS=Bos taurus GN=APOA4 PE=2 SV=1;B;TI_PPHE
+Q3MHN2;CO9; Complement component C9 OS=Bos taurus GN=C9 PE=2 SV=1;B;TI_PPHE
+Q3MHN5;VTDB; Vitamin D-binding protein OS=Bos taurus GN=GC PE=2 SV=1;B;TI_PPHE
+Q3SWW8;TSP4; Thrombospondin-4 OS=Bos taurus GN=THBS4 PE=2 SV=1;B;TI_PPHE
+Q3SX14;GELS; Gelsolin OS=Bos taurus GN=GSN PE=2 SV=1;B;TI_PPHE
+Q3SZ57;FETA; Alpha-fetoprotein OS=Bos taurus GN=AFP PE=2 SV=1;B;TI_PPHE
+Q3SZR3;A1AG; Alpha-1-acid glycoprotein OS=Bos taurus GN=ORM1 PE=2 SV=1;B;TI_PPHE
+Q3SZV7;HEMO; Hemopexin OS=Bos taurus GN=HPX PE=2 SV=1;B;TI_PPHE
+Q3T021;SPAT9; Spermatogenesis-associated protein 9 OS=Bos taurus GN=SPATA9 PE=2 SV=1;B;TI_PPHE
+Q3T052;ITIH4; Inter-alpha-trypsin inhibitor heavy chain H4 OS=Bos taurus GN=ITIH4 PE=1 SV=1;B;TI_PPHE
+Q3Y5Z3;ADIPO; Adiponectin OS=Bos taurus GN=ADIPOQ PE=1 SV=1;B;TI_PPHE
+Q58CQ9;VNN1; Pantetheinase OS=Bos taurus GN=VNN1 PE=1 SV=1;B;TI_PPHE
+Q58D62;FETUB; Fetuin-B OS=Bos taurus GN=FETUB PE=1 SV=1;B;TI_PPHE
+Q5E9B1;LDHB; L-lactate dehydrogenase B chain OS=Bos taurus GN=LDHB PE=2 SV=4;B;TI_PPHE
+Q5E9F5;TAGL2; Transgelin-2 OS=Bos taurus GN=TAGLN2 PE=2 SV=3;B;TI_PPHE
+Q5E9F7;COF1; Cofilin-1 OS=Bos taurus GN=CFL1 PE=2 SV=3;B;TI_PPHE
+Q5XQN5;K2C5; Keratin, type II cytoskeletal 5 OS=Bos taurus GN=KRT5 PE=1 SV=1;B;TI_PPHE
+Q6URK6;CADH5; Cadherin-5 OS=Bos taurus GN=CDH5 PE=2 SV=1;B;TI_PPHE
+Q7SIH1;A2MG; Alpha-2-macroglobulin OS=Bos taurus GN=A2M PE=1 SV=2;B;TI_PPHE
+Q95121;PEDF; Pigment epithelium-derived factor OS=Bos taurus GN=SERPINF1 PE=1 SV=1;B;TI_PPHE
+Q95M17;CHIA; Acidic mammalian chitinase OS=Bos taurus GN=CHIA PE=1 SV=1;B;TI_PPHE
+Q9BGI3;PRDX2; Peroxiredoxin-2 OS=Bos taurus GN=PRDX2 PE=2 SV=1;B;TI_PPHE
+Q9N2I2;IPSP; Plasma serine protease inhibitor OS=Bos taurus GN=SERPINA5 PE=1 SV=1;B;TI_PPHE
+Q9TT36;THBG; Thyroxine-binding globulin OS=Bos taurus GN=SERPINA7 PE=2 SV=1;B;TI_PPHE
+Q9TTE1;SPA31; Serpin A3-1 OS=Bos taurus GN=SERPINA3-1 PE=1 SV=3;B;TI_PPHE
+Q9TTJ5;RGN; Regucalcin OS=Bos taurus GN=RGN PE=2 SV=1;B;TI_PPHE
+Q9XSJ4;ENOA; Alpha-enolase OS=Bos taurus GN=ENO1 PE=1 SV=4;B;TI_PPHE
+P08670;VIME;Vimentin OS=Homo sapiens GN=VIM PE=1 SV=4;H;TI_PPHE
+P00002;PC;PepCalMix;H;TI_PPHE
+P04264;K2C1;Keratin, type II cytoskeletal 1 OS=Homo sapiens GN=KRT1 PE=1 SV=6;H;TI_PPHE
+P35908;K22E;Keratin, type II cytoskeletal 2 epidermal OS=Homo sapiens GN=KRT2 PE=1 SV=2;H;TI_PPHE
+P13645;K1C10;Keratin, type I cytoskeletal 10 OS=Homo sapiens GN=KRT10 PE=1 SV=6;H;TI_PPHE
+P35527;K1C9;Keratin, type I cytoskeletal 9 OS=Homo sapiens GN=KRT9 PE=1 SV=3;H;TI_PPHE
+P02533;K1C14;Keratin, type I cytoskeletal 14 OS=Homo sapiens GN=KRT14 PE=1 SV=4;H;TI_PPHE
+P02545;LMNA;Prelamin-A/C OS=Homo sapiens GN=LMNA PE=1 SV=1;H;TI_PPHE
+P14618;KPYM;Pyruvate kinase PKM OS=Homo sapiens GN=PKM PE=1 SV=4;H;TI_PPHE
+P07437;TBB5;Tubulin beta chain OS=Homo sapiens GN=TUBB PE=1 SV=2;H;TI_PPHE
+P07355;ANXA2;Annexin A2 OS=Homo sapiens GN=ANXA2 PE=1 SV=2;H;TI_PPHE
+P60709;ACTB;Actin, cytoplasmic 1 OS=Homo sapiens GN=ACTB PE=1 SV=1;H;TI_PPHE
+P68032;ACTC;Actin, alpha cardiac muscle 1 OS=Homo sapiens GN=ACTC1 PE=1 SV=1;H;TI_PPHE
+P13639;EF2;Elongation factor 2 OS=Homo sapiens GN=EEF2 PE=1 SV=4;H;TI_PPHE
+P06733;ENOA;Alpha-enolase OS=Homo sapiens GN=ENO1 PE=1 SV=2;H;TI_PPHE
+P11021;GRP78;78 kDa glucose-regulated protein OS=Homo sapiens GN=HSPA5 PE=1 SV=2;H;TI_PPHE
+P68363;TBA1B;Tubulin alpha-1B chain OS=Homo sapiens GN=TUBA1B PE=1 SV=1;H;TI_PPHE
+Q13509;TBB3;Tubulin beta-3 chain OS=Homo sapiens GN=TUBB3 PE=1 SV=2;H;TI_PPHE
+P04406;G3P;Glyceraldehyde-3-phosphate dehydrogenase OS=Homo sapiens GN=GAPDH PE=1 SV=3;H;TI_PPHE
+P08758;ANXA5;Annexin A5 OS=Homo sapiens GN=ANXA5 PE=1 SV=2;H;TI_PPHE
+P00338;LDHA;L-lactate dehydrogenase A chain OS=Homo sapiens GN=LDHA PE=1 SV=2;H;TI_PPHE
+Q5VTE0;EF1A3;Putative elongation factor 1-alpha-like 3 OS=Homo sapiens GN=EEF1A1P5 PE=5 SV=1;H;TI_PPHE
+P04083;ANXA1;Annexin A1 OS=Homo sapiens GN=ANXA1 PE=1 SV=2;H;TI_PPHE
+P11142;HSP7C;Heat shock cognate 71 kDa protein OS=Homo sapiens GN=HSPA8 PE=1 SV=1;H;TI_PPHE
+P68104;EF1A1;Elongation factor 1-alpha 1 OS=Homo sapiens GN=EEF1A1 PE=1 SV=1;H;TI_PPHE
+P08238;HS90B;Heat shock protein HSP 90-beta OS=Homo sapiens GN=HSP90AB1 PE=1 SV=4;H;TI_PPHE
+P14625;ENPL;Endoplasmin OS=Homo sapiens GN=HSP90B1 PE=1 SV=1;H;TI_PPHE
+P13647;K2C5;Keratin, type II cytoskeletal 5 OS=Homo sapiens GN=KRT5 PE=1 SV=3;H;TI_PPHE
+O43707;ACTN4;Alpha-actinin-4 OS=Homo sapiens GN=ACTN4 PE=1 SV=2;H;TI_PPHE
+P21333;FLNA;Isoform 2 of Filamin-A OS=Homo sapiens GN=FLNA;H;TI_PPHE
+P60174;TPIS;Triosephosphate isomerase OS=Homo sapiens GN=TPI1 PE=1 SV=3;H;TI_PPHE
+P62937;PPIA;Peptidyl-prolyl cis-trans isomerase A OS=Homo sapiens GN=PPIA PE=1 SV=2;H;TI_PPHE
+P07900;HS90A;Heat shock protein HSP 90-alpha OS=Homo sapiens GN=HSP90AA1 PE=1 SV=5;H;TI_PPHE
+P62805;H4;Histone H4 OS=Homo sapiens GN=HIST1H4A PE=1 SV=2;H;TI_PPHE
+P04075;ALDOA;Isoform 2 of Fructose-bisphosphate aldolase A OS=Homo sapiens GN=ALDOA;H;TI_PPHE
+P63104;1433Z;14-3-3 protein zeta/delta OS=Homo sapiens GN=YWHAZ PE=1 SV=1;H;TI_PPHE
+P27797;CALR;Calreticulin OS=Homo sapiens GN=CALR PE=1 SV=1;H;TI_PPHE
+Q8N257;H2B3B;Histone H2B type 3-B OS=Homo sapiens GN=HIST3H2BB PE=1 SV=3;H;TI_PPHE
+P09382;LEG1;Galectin-1 OS=Homo sapiens GN=LGALS1 PE=1 SV=2;H;TI_PPHE
+P31946;1433B;Isoform Short of 14-3-3 protein beta/alpha OS=Homo sapiens GN=YWHAB;H;TI_PPHE
+P25705;ATPA;Isoform 2 of ATP synthase subunit alpha, mitochondrial OS=Homo sapiens GN=ATP5A1;H;TI_PPHE
+P07737;PROF1;Profilin-1 OS=Homo sapiens GN=PFN1 PE=1 SV=2;H;TI_PPHE
+P62328;TYB4;Thymosin beta-4 OS=Homo sapiens GN=TMSB4X PE=1 SV=2;H;TI_PPHE
+P07195;LDHB;L-lactate dehydrogenase B chain OS=Homo sapiens GN=LDHB PE=1 SV=2;H;TI_PPHE
+P10809;CH60;60 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPD1 PE=1 SV=2;H;TI_PPHE
+P81605;DCD;Dermcidin OS=Homo sapiens GN=DCD PE=1 SV=2;H;TI_PPHE
+P35579;MYH9;Myosin-9 OS=Homo sapiens GN=MYH9 PE=1 SV=4;H;TI_PPHE
+Q96QV6;H2A1A;Histone H2A type 1-A OS=Homo sapiens GN=HIST1H2AA PE=1 SV=3;H;TI_PPHE
+Q9NZT1;CALL5;Calmodulin-like protein 5 OS=Homo sapiens GN=CALML5 PE=1 SV=2;H;TI_PPHE
+P00558;PGK1;Phosphoglycerate kinase 1 OS=Homo sapiens GN=PGK1 PE=1 SV=3;H;TI_PPHE
+P69905;HBA;Hemoglobin subunit alpha OS=Homo sapiens GN=HBA1 PE=1 SV=2;H;TI_PPHE
+Q15149;PLEC;Isoform 4 of Plectin OS=Homo sapiens GN=PLEC;H;TI_PPHE
+P30101;PDIA3;Protein disulfide-isomerase A3 OS=Homo sapiens GN=PDIA3 PE=1 SV=4;H;TI_PPHE
+O43852;CALU;Calumenin OS=Homo sapiens GN=CALU PE=1 SV=2;H;TI_PPHE
+P06576;ATPB;ATP synthase subunit beta, mitochondrial OS=Homo sapiens GN=ATP5B PE=1 SV=3;H;TI_PPHE
+P50990;TCPQ;Isoform 2 of T-complex protein 1 subunit theta OS=Homo sapiens GN=CCT8;H;TI_PPHE
+P60660;MYL6;Myosin light polypeptide 6 OS=Homo sapiens GN=MYL6 PE=1 SV=2;H;TI_PPHE
+P32119;PRDX2;Peroxiredoxin-2 OS=Homo sapiens GN=PRDX2 PE=1 SV=5;H;TI_PPHE
+P40926;MDHM;Malate dehydrogenase, mitochondrial OS=Homo sapiens GN=MDH2 PE=1 SV=3;H;TI_PPHE
+O60701;UGDH;UDP-glucose 6-dehydrogenase OS=Homo sapiens GN=UGDH PE=1 SV=1;H;TI_PPHE
+P31949;S10AB;Protein S100-A11 OS=Homo sapiens GN=S100A11 PE=1 SV=2;H;TI_PPHE
+Q09666;AHNK;Neuroblast differentiation-associated protein AHNAK OS=Homo sapiens GN=AHNAK PE=1 SV=2;H;TI_PPHE
+P05388;RLA0;60S acidic ribosomal protein P0 OS=Homo sapiens GN=RPLP0 PE=1 SV=1;H;TI_PPHE
+P07237;PDIA1;Protein disulfide-isomerase OS=Homo sapiens GN=P4HB PE=1 SV=3;H;TI_PPHE
+P22626;ROA2;Heterogeneous nuclear ribonucleoproteins A2/B1 OS=Homo sapiens GN=HNRNPA2B1 PE=1 SV=2;H;TI_PPHE
+Q06830;PRDX1;Peroxiredoxin-1 OS=Homo sapiens GN=PRDX1 PE=1 SV=1;H;TI_PPHE
+P61604;CH10;10 kDa heat shock protein, mitochondrial OS=Homo sapiens GN=HSPE1 PE=1 SV=2;H;TI_PPHE
+P26038;MOES;Moesin OS=Homo sapiens GN=MSN PE=1 SV=3;H;TI_PPHE
+P62081;RS7;40S ribosomal protein S7 OS=Homo sapiens GN=RPS7 PE=1 SV=1;H;TI_PPHE
+O60814;H2B1K;Histone H2B type 1-K OS=Homo sapiens GN=HIST1H2BK PE=1 SV=3;H;TI_PPHE
+P62277;RS13;40S ribosomal protein S13 OS=Homo sapiens GN=RPS13 PE=1 SV=2;H;TI_PPHE
+P0DP23;CALM1;Calmodulin-1 OS=Homo sapiens GN=CALM1 PE=1 SV=1;H;TI_PPHE
+P50395;GDIB;Rab GDP dissociation inhibitor beta OS=Homo sapiens GN=GDI2 PE=1 SV=2;H;TI_PPHE
+P37802;TAGL2;Transgelin-2 OS=Homo sapiens GN=TAGLN2 PE=1 SV=3;H;TI_PPHE
+P22392;NDKB;Nucleoside diphosphate kinase B OS=Homo sapiens GN=NME2 PE=1 SV=1;H;TI_PPHE
+P23284;PPIB;Peptidyl-prolyl cis-trans isomerase B OS=Homo sapiens GN=PPIB PE=1 SV=2;H;TI_PPHE
+P05387;RLA2;60S acidic ribosomal protein P2 OS=Homo sapiens GN=RPLP2 PE=1 SV=1;H;TI_PPHE
+P17931;LEG3;Galectin-3 OS=Homo sapiens GN=LGALS3 PE=1 SV=5;H;TI_PPHE
+P62424;RL7A;60S ribosomal protein L7a OS=Homo sapiens GN=RPL7A PE=1 SV=2;H;TI_PPHE
+P09601;HMOX1;Heme oxygenase 1 OS=Homo sapiens GN=HMOX1 PE=1 SV=1;H;TI_PPHE
+P26641;EF1G;Elongation factor 1-gamma OS=Homo sapiens GN=EEF1G PE=1 SV=3;H;TI_PPHE
+P62851;RS25;40S ribosomal protein S25 OS=Homo sapiens GN=RPS25 PE=1 SV=1;H;TI_PPHE
+Q14103;HNRPD;Heterogeneous nuclear ribonucleoprotein D0 OS=Homo sapiens GN=HNRNPD PE=1 SV=1;H;TI_PPHE
+P29692;EF1D;Isoform 2 of Elongation factor 1-delta OS=Homo sapiens GN=EEF1D;H;TI_PPHE
+Q16658;FSCN1;Fascin OS=Homo sapiens GN=FSCN1 PE=1 SV=3;H;TI_PPHE
+Q07065;CKAP4;Cytoskeleton-associated protein 4 OS=Homo sapiens GN=CKAP4 PE=1 SV=2;H;TI_PPHE
+P15880;RS2;40S ribosomal protein S2 OS=Homo sapiens GN=RPS2 PE=1 SV=2;H;TI_PPHE
+P23396;RS3;40S ribosomal protein S3 OS=Homo sapiens GN=RPS3 PE=1 SV=2;H;TI_PPHE
+P01023;A2MG;Alpha-2-macroglobulin OS=Homo sapiens GN=A2M PE=1 SV=3;H;TI_PPHE
+P16070;CD44;Isoform 10 of CD44 antigen OS=Homo sapiens GN=CD44;H;TI_PPHE
+P06748;NPM;Isoform 2 of Nucleophosmin OS=Homo sapiens GN=NPM1;H;TI_PPHE
+P08133;ANXA6;Annexin A6 OS=Homo sapiens GN=ANXA6 PE=1 SV=3;H;TI_PPHE
+Q15084;PDIA6;Isoform 5 of Protein disulfide-isomerase A6 OS=Homo sapiens GN=PDIA6;H;TI_PPHE
+P39019;RS19;40S ribosomal protein S19 OS=Homo sapiens GN=RPS19 PE=1 SV=2;H;TI_PPHE
+P62269;RS18;40S ribosomal protein S18 OS=Homo sapiens GN=RPS18 PE=1 SV=3;H;TI_PPHE
+P78371;TCPB;T-complex protein 1 subunit beta OS=Homo sapiens GN=CCT2 PE=1 SV=4;H;TI_PPHE
+P06702;S10A9;Protein S100-A9 OS=Homo sapiens GN=S100A9 PE=1 SV=1;H;TI_PPHE
+Q14974;IMB1;Importin subunit beta-1 OS=Homo sapiens GN=KPNB1 PE=1 SV=2;H;TI_PPHE
+Q9H299;SH3L3;SH3 domain-binding glutamic acid-rich-like protein 3 OS=Homo sapiens GN=SH3BGRL3 PE=1 SV=1;H;TI_PPHE
+P27824;CALX;Calnexin OS=Homo sapiens GN=CANX PE=1 SV=2;H;TI_PPHE
+O00571;DDX3X;ATP-dependent RNA helicase DDX3X OS=Homo sapiens GN=DDX3X PE=1 SV=3;H;TI_PPHE
+P05141;ADT2;ADP/ATP translocase 2 OS=Homo sapiens GN=SLC25A5 PE=1 SV=7;H;TI_PPHE
+P19338;NUCL;Nucleolin OS=Homo sapiens GN=NCL PE=1 SV=3;H;TI_PPHE
+P16402;H13;Histone H1.3 OS=Homo sapiens GN=HIST1H1D PE=1 SV=2;H;TI_PPHE
+P49368;TCPG;T-complex protein 1 subunit gamma OS=Homo sapiens GN=CCT3 PE=1 SV=4;H;TI_PPHE
+O60664-3;PLIN3;Isoform 3 of Perilipin-3 OS=Homo sapiens GN=PLIN3;H;TI_PPHE
+O60506;HNRPQ;Isoform 2 of Heterogeneous nuclear ribonucleoprotein Q OS=Homo sapiens GN=SYNCRIP;H;TI_PPHE
+P15144;AMPN;Aminopeptidase N OS=Homo sapiens GN=ANPEP PE=1 SV=4;H;TI_PPHE
+P18085;ARF4;ADP-ribosylation factor 4 OS=Homo sapiens GN=ARF4 PE=1 SV=3;H;TI_PPHE
+P30041;PRDX6;Peroxiredoxin-6 OS=Homo sapiens GN=PRDX6 PE=1 SV=3;H;TI_PPHE
+P61353;RL27;60S ribosomal protein L27 OS=Homo sapiens GN=RPL27 PE=1 SV=2;H;TI_PPHE
+Q02878;RL6;60S ribosomal protein L6 OS=Homo sapiens GN=RPL6 PE=1 SV=3;H;TI_PPHE
+Q5D862;FILA2;Filaggrin-2 OS=Homo sapiens GN=FLG2 PE=1 SV=1;H;TI_PPHE
+P07858;CATB;Cathepsin B OS=Homo sapiens GN=CTSB PE=1 SV=3;H;TI_PPHE
+P60866;RS20;Isoform 2 of 40S ribosomal protein S20 OS=Homo sapiens GN=RPS20;H;TI_PPHE
+Q00610;CLH1;Isoform 2 of Clathrin heavy chain 1 OS=Homo sapiens GN=CLTC;H;TI_PPHE
+P05109;S10A8;Protein S100-A8 OS=Homo sapiens GN=S100A8 PE=1 SV=1;H;TI_PPHE
+Q00839;HNRPU;Heterogeneous nuclear ribonucleoprotein U OS=Homo sapiens GN=HNRNPU PE=1 SV=6;H;TI_PPHE
+O15511-2;ARPC5;Isoform 2 of Actin-related protein 2/3 complex subunit 5 OS=Homo sapiens GN=ARPC5;H;TI_PPHE
+Q16695;H31T;Histone H3.1t OS=Homo sapiens GN=HIST3H3 PE=1 SV=3;H;TI_PPHE
+Q9P2E9-2;RRBP1;Isoform 1 of Ribosome-binding protein 1 OS=Homo sapiens GN=RRBP1;H;TI_PPHE
+P62826;RAN;GTP-binding nuclear protein Ran OS=Homo sapiens GN=RAN PE=1 SV=3;H;TI_PPHE
+P07339;CATD;Cathepsin D OS=Homo sapiens GN=CTSD PE=1 SV=1;H;TI_PPHE
+P62701;RS4X;40S ribosomal protein S4, X isoform OS=Homo sapiens GN=RPS4X PE=1 SV=2;H;TI_PPHE
+P61163;ACTZ;Alpha-centractin OS=Homo sapiens GN=ACTR1A PE=1 SV=1;H;TI_PPHE
+P02655;APOC2;Apolipoprotein C-II OS=Homo sapiens GN=APOC2 PE=1 SV=1;H;TI_PPHE
+P46781;RS9;40S ribosomal protein S9 OS=Homo sapiens GN=RPS9 PE=1 SV=3;H;TI_PPHE
+P51149;RAB7A;Ras-related protein Rab-7a OS=Homo sapiens GN=RAB7A PE=1 SV=1;H;TI_PPHE
+Q99584;S10AD;Protein S100-A13 OS=Homo sapiens GN=S100A13 PE=1 SV=1;H;TI_PPHE
+P46940;IQGA1;Ras GTPase-activating-like protein IQGAP1 OS=Homo sapiens GN=IQGAP1 PE=1 SV=1;H;TI_PPHE
+Q96AY3;FKB10;Peptidyl-prolyl cis-trans isomerase FKBP10 OS=Homo sapiens GN=FKBP10 PE=1 SV=1;H;TI_PPHE
+P06396-2;GELS;Isoform 2 of Gelsolin OS=Homo sapiens GN=GSN;H;TI_PPHE
+Q16881;TRXR1;Isoform 3 of Thioredoxin reductase 1, cytoplasmic OS=Homo sapiens GN=TXNRD1;H;TI_PPHE
+O75874;IDHC;Isocitrate dehydrogenase [NADP] cytoplasmic OS=Homo sapiens GN=IDH1 PE=1 SV=2;H;TI_PPHE
+P04632;CPNS1;Calpain small subunit 1 OS=Homo sapiens GN=CAPNS1 PE=1 SV=1;H;TI_PPHE
+P63244;RACK1;Receptor of activated protein C kinase 1 OS=Homo sapiens GN=RACK1 PE=1 SV=3;H;TI_PPHE
+P55072;TERA;Transitional endoplasmic reticulum ATPase OS=Homo sapiens GN=VCP PE=1 SV=4;H;TI_PPHE
+P61981;1433G;14-3-3 protein gamma OS=Homo sapiens GN=YWHAG PE=1 SV=2;H;TI_PPHE
+P62847;RS24;40S ribosomal protein S24 OS=Homo sapiens GN=RPS24 PE=1 SV=1;H;TI_PPHE
+P62899;RL31;60S ribosomal protein L31 OS=Homo sapiens GN=RPL31 PE=1 SV=1;H;TI_PPHE
+Q6ZMT4-2;KDM7A;Isoform 2 of Lysine-specific demethylase 7A OS=Homo sapiens GN=KDM7A;H;TI_PPHE
+P02768;ALBU;Serum albumin OS=Homo sapiens GN=ALB PE=1 SV=2;H;TI_PPHE
+P17987;TCPA;T-complex protein 1 subunit alpha OS=Homo sapiens GN=TCP1 PE=1 SV=1;H;TI_PPHE
+P02647;APOA1;Apolipoprotein A-I OS=Homo sapiens GN=APOA1 PE=1 SV=1;H;TI_PPHE
+P62906;RL10A;60S ribosomal protein L10a OS=Homo sapiens GN=RPL10A PE=1 SV=2;H;TI_PPHE
+Q9Y616;IRAK3;Interleukin-1 receptor-associated kinase 3 OS=Homo sapiens GN=IRAK3 PE=1 SV=2;H;TI_PPHE
+Q9H307;PININ;Pinin OS=Homo sapiens GN=PNN PE=1 SV=4;H;TI_PPHE
+Q99471;PFD5;Prefoldin subunit 5 OS=Homo sapiens GN=PFDN5 PE=1 SV=2;H;TI_PPHE
+Q9NZM1;MYOF;Isoform 2 of Myoferlin OS=Homo sapiens GN=MYOF;H;TI_PPHE
+P50452;SPB8;Serpin B8 OS=Homo sapiens GN=SERPINB8 PE=1 SV=2;H;TI_PPHE
+P30086;PEBP1;Phosphatidylethanolamine-binding protein 1 OS=Homo sapiens GN=PEBP1 PE=1 SV=3;H;TI_PPHE
+P35606;COPB2;Coatomer subunit beta' OS=Homo sapiens GN=COPB2 PE=1 SV=2;H;TI_PPHE
+Q5T7P8-2;SYT6;Isoform 2 of Synaptotagmin-6 OS=Homo sapiens GN=SYT6;H;TI_PPHE
+Q92598-2;HS105;Isoform Beta of Heat shock protein 105 kDa OS=Homo sapiens GN=HSPH1;H;TI_PPHE
+P63241;IF5A1;Eukaryotic translation initiation factor 5A-1 OS=Homo sapiens GN=EIF5A PE=1 SV=2;H;TI_PPHE
+P62837;UB2D2;Ubiquitin-conjugating enzyme E2 D2 OS=Homo sapiens GN=UBE2D2 PE=1 SV=1;H;TI_PPHE
+P62266;RS23;40S ribosomal protein S23 OS=Homo sapiens GN=RPS23 PE=1 SV=3;H;TI_PPHE
+P60953;CDC42;Cell division control protein 42 homolog OS=Homo sapiens GN=CDC42 PE=1 SV=2;H;TI_PPHE
+P41250;GARS;Glycine--tRNA ligase OS=Homo sapiens GN=GARS PE=1 SV=3;H;TI_PPHE
+P52597;HNRPF;Heterogeneous nuclear ribonucleoprotein F OS=Homo sapiens GN=HNRNPF PE=1 SV=3;H;TI_PPHE
+P10599-2;THIO;Isoform 2 of Thioredoxin OS=Homo sapiens GN=TXN;H;TI_PPHE
+P62861;RS30;40S ribosomal protein S30 OS=Homo sapiens GN=FAU PE=1 SV=1;H;TI_PPHE
+P49721;PSB2;Proteasome subunit beta type-2 OS=Homo sapiens GN=PSMB2 PE=1 SV=1;H;TI_PPHE
+P46776;RL27A;60S ribosomal protein L27a OS=Homo sapiens GN=RPL27A PE=1 SV=2;H;TI_PPHE
+P25787;PSA2;Proteasome subunit alpha type-2 OS=Homo sapiens GN=PSMA2 PE=1 SV=2;H;TI_PPHE
+P68036;UB2L3;Ubiquitin-conjugating enzyme E2 L3 OS=Homo sapiens GN=UBE2L3 PE=1 SV=1;H;TI_PPHE
+P08195;4F2;4F2 cell-surface antigen heavy chain OS=Homo sapiens GN=SLC3A2 PE=1 SV=3;H;TI_PPHE
+P46821;MAP1B;Microtubule-associated protein 1B OS=Homo sapiens GN=MAP1B PE=1 SV=2;H;TI_PPHE
+P05386;RLA1;60S acidic ribosomal protein P1 OS=Homo sapiens GN=RPLP1 PE=1 SV=1;H;TI_PPHE
+O14558;HSPB6;Heat shock protein beta-6 OS=Homo sapiens GN=HSPB6 PE=1 SV=2;H;TI_PPHE
+A6PVY3;F177B;Protein FAM177B OS=Homo sapiens GN=FAM177B PE=2 SV=1;H;TI_PPHE
+P46777;RL5;60S ribosomal protein L5 OS=Homo sapiens GN=RPL5 PE=1 SV=3;H;TI_PPHE
+P18621;RL17;60S ribosomal protein L17 OS=Homo sapiens GN=RPL17 PE=1 SV=3;H;TI_PPHE
