@@ -2,7 +2,7 @@ import pandas as pd
 import numpy as np
 import pdb
 pd.options.mode.chained_assignment = None  # default='warn'
-folder='D:/Parinaz/datasets_analysis/'
+folder='D:/Data/datasets_analysis/'
 filenameB='Cartel1.xlsx'
 raw_datasetB=pd.read_excel(filenameB,header=0,index_col=None)
 raw_datasetB[['idx','Protein1']] = raw_datasetB['Peak Name'].str.split('|',n=1,expand=True)
