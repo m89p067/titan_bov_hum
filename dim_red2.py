@@ -24,7 +24,7 @@ def mahalanobis_metric(x, y, inv_cov_matrix):
 
 alt_mahalanobis=False
 print('Data created by merge_H_B_ver1.py')
-folder='D:/Parinaz/datasets_analysis/'
+folder='D:/Data/datasets_analysis/'
 filenameH='Human_ML2'
 filenameB='Bovine_ML2'
 filenameBH='Bovine_and_Human2'
