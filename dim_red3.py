@@ -6,7 +6,7 @@ from sklearn.metrics import silhouette_score
 from sklearn.cluster import AgglomerativeClustering, DBSCAN, OPTICS,KMeans
 
 cell_lines=['Cell Line1', 'Cell Line2', 'Cell Line3']
-folder ="D:/Parinaz/datasets_analysis/"
+folder ="D:/Data/datasets_analysis/"
 filenameHs='Human_ML3'
 H_df=pd.read_csv(folder+filenameHs+'.csv',index_col=False,header=0)
 X = H_df.loc[:,cell_lines].to_numpy()
@@ -65,7 +65,7 @@ if do_save:
     ]
     alt_mahalanobis =False
     results = []  # List to store results
-    folder_umap="D:/Parinaz/datasets_analysis/UMAP_H/"
+    folder_umap="D:/Data/datasets_analysis/UMAP_H/"
     # Loop through each combination of metric, n_neighbors, and min_dist
     for metric, n_neighbors, min_dist in metric_n_neighbors_min_dist:
         print(f"Processing: Metric={metric}, n_neighbors={n_neighbors}, min_dist={min_dist}")
