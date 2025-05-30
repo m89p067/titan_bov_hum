@@ -10,7 +10,7 @@ from keras.models import Model
 from keras.layers import Input, Dense
 from sklearn.manifold import TSNE
     
-filename = "D:/Parinaz/bovine_ML.xlsx"
+filename = "D:/Data/bovine_ML.xlsx"
 
 df=pd.read_excel(filename,header=0,index_col=None)
 
