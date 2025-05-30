@@ -10,10 +10,10 @@ clustering_metrics = [
         metrics.adjusted_rand_score,
         metrics.adjusted_mutual_info_score,
     ]
-folder_umap='D:/Parinaz/umap_fig/'
+folder_umap='D:/Data/umap_fig/'
 results = []
 results += [each for each in listdir(folder_umap) if each.endswith('.npy')]
-filename = r"D:/Parinaz/bovine_ML.xlsx"
+filename = r"D:/Data/bovine_ML.xlsx"
 df = pd.read_excel(filename, header=0, index_col=None).iloc[:, :4]
 def plotting_kmeans(reduced_data,stringa):
     # Step size of the mesh. Decrease to increase the quality of the VQ.
@@ -61,12 +61,12 @@ def plotting_kmeans(reduced_data,stringa):
     plt.xticks(())
     plt.yticks(())
     nome=stringa.split('.')
-    plt.savefig('D:/Parinaz/umap_fig/'+nome[0]+'png',dpi=300, bbox_inches='tight')
+    plt.savefig('D:/Data/umap_fig/'+nome[0]+'png',dpi=300, bbox_inches='tight')
     plr.close()
 # Prepare data
 X = df.iloc[:, :3].to_numpy()  # Features
 y = df.iloc[:, 3].to_numpy()   # Labels
-cartella='D:/Parinaz/umap_fig/'
+cartella='D:/Data/umap_fig/'
 
 cl_type=['Kmeans']
 cols=['Metric','NN','MinDist','Inertia','homogeneity_score','completeness_score','v_measure_score','adjusted_rand_score','adjusted_mutual_info_score','silhouette_score']
