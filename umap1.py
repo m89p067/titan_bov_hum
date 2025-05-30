@@ -4,7 +4,7 @@ import umap
 import seaborn as sns
 import matplotlib.pyplot as plt
 
-filename = r"D:/Parinaz/bovine_ML.xlsx"
+filename = r"D:/Data/bovine_ML.xlsx"
 df = pd.read_excel(filename, header=0, index_col=None).iloc[:, :4]
 
 # Prepare data
