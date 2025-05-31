@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 print('HUMAN and BOVINE RAW Datasets')
-folder='D:/Parinaz/Umani/'
+folder='D:/Data/'
 filename='AreeNormOdonto_08112021.xlsx' # Filename of the proteomic dataset
 raw_dataset=pd.read_excel(folder+filename)
 raw_dataset[['idx','Protein1']] = raw_dataset['Peak Name'].str.split('|',n=1,expand=True)
