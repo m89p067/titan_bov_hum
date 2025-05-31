@@ -7,7 +7,7 @@ The collection encloses a data science investigation based on the following scri
 + File *bovine_for_ML.py* creates *bovine_ML.xlsx*
 + File *common_on_bovine2.py* performs ML tests on *bovine_ML.xlsx* 
 + File *common_on_bovine3.py* runs ML-related analysis on *bovine_ML.xlsx* 
-+ File *dim_red1.py* is a routine for dimensionality reduction and stats calculation on Human or Bovine data on data in *Human_ML2,Bovine_ML2,Bovine_and_Human2,Human_ML3,Bovine_ML3,Bovine_and_Human3,BovineFC,Bovine_and_Human4,Bovine_ML4* csv files
++ File *dim_red1.py* is a routine for dimensionality reduction and stats calculation on Human or Bovine data using data in *Human_ML2,Bovine_ML2,Bovine_and_Human2,Human_ML3,Bovine_ML3,Bovine_and_Human3,BovineFC,Bovine_and_Human4,Bovine_ML4* csv files
 + File *dim_red2.py* runs clustering and visualizations on reduced data 
 + File *dim_red3.py* for clustering results evalution
 + File *human_preproc.py* contains preprocessing and reorganization of the raw data
